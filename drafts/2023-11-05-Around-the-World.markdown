@@ -7,24 +7,22 @@ author: David
 image:
   feature: "World-Map-2000.jpg"
 date: "2023-11-05" 
-header-img: "img/postcover/World-Map-2000.jpg"
+header-img: "img/postcover/winter.jpg"
 tags: Preparations
 categories:
 comments: false
 ---
 
-Well, who would have thought?
+After hanging around as a vague idea of something that we really 'should' do when I retired, it's now becoming very real.
 
-We did, of course!
+When I did finally retire at the end of March, we had a head full of ideas about what we to do around Scotland. All that work getting the van just right would now pay off. In January we booked a trip to St Kilda and that gave uas a good excuse to re-visit Lewis. The last time we were there, was just after the first Covid lockdown. Although we had a great time there were a few things we wished we could have visited. We also now had Jenny and Mike to visit. We hadn't held out a lot of hope that the visit to St. Kilda would come of at that time of year, April in Scotland can still throw a bunch of weather at you. In the end the weather was better than many a mid-summer day and we had a good time on St. Kilda. 
 
-I must admit that I can't really remember when we first thought about it, but it's been around as a vague notion for quite some time. For years there was no real urgency, unlike the last time, I had commited myself to waiting until I finally retired. That, finally came, but only after a stolen year (and it wasn't I doing the stealing). 
+Soon after that something else came back to mind: hadn't we been invited to Gina's wedding? Gina lives in New Zealand. It might be long way for a wedding, but then that vague idea of an 'around the world ticket' started to grow arms and legs. Yes, that was it. Now when was the wedding again?
 
-I know they haven't been the only ones fiddling with pensioners money, but I consider the British Government to have stolen a year of my life and the cash to boot. We may well all be living longer, but there's two points to be made: I'm old enough to remember the promises of ever earlier retirement and ever shorter working weeks. This was to be the bonus of the new technological age. Aye right! We can't even afford the things we used to have never mind those we were promised. Why? We must be a poorer nation than we once were. If anyone holds that position, I'd like to see their workings for it, just as we always had to show them in our mathematics tests.
+We had to be in New Zealand sometime around the middle of May. With our date to leave set as the 13th of December, we had a lot of planning to do. This will probably be our last chance at such a trip, so we wanted to see as much as we could, but not just running around ticking off all the must see sights, we wanted to stop long enough to get a real feel for the countries we were going to visit. Nonetheless, with that deadline in May there was always going to be a danger of trying to cram too much in. that's exactly what we did.
 
-Anyway, I'm forgetting this is supposed to be a journal dedicated to our latest adventure.
+We had a list of must go to's which included Egypt, Jordan, India, China and Japan. Oops! There is also the whole of South East Asia in between too. First off we planned 4-5 weeks in Egypt and a week in Jordan. Then it was 4 weeks in India and a minimum of 3 weeks in each of China and Japan. It wasn't until we sat down and started booking our flights that we realised this was all going to be a bit of rush. We booked a flight arriving in Bangkok with four weeks to get to Jogjakarta and our flight to Beijing via Singapore. Well, we would just have to pick and choose and maybe even just miss out on a lot.
 
-The 31st of March came, but I had already left work two weeks earlier. Saved leave days and toiled overtime meant I did get that early retirement after all! Our minds didn't really turn to that vague trip around the world idea that we'd had for years. We'd spent the past ten years, or more, seeing the wonderful sights of Scotland and some summer trips to Europe. Life was really good and we had a head full of ideas of the other places we hadn't yet been. We'd been loving getting away in our wee 'two-man' tent of a van. Our first adventute was St Kilda. We'd booked it in January with the expectation that it may well be called off. However, I'll leave St Kilda for another post.
+We got the bones of our flight arrangements all booked up. Glasgow to Cairo via London, with almost five weeks in Egypt before flying to Amman for a further week. From Amman it was a flight to New Delhi and almost five weeks in India. After that Delhi to Bangkok and making our own way to Jogjakarta with a Flight to Singapore and a two night stopover. We really did need to see Raffles at least and drink at least one Singapore sling! :-) Then a flight to Beijing and three weeks with our own travel arrangements to get to Hong Kong for the flight to Tokyo. Three weeks in Japan, surely not enough, but sacrifices and compromises it had to be. We also booked flights to Australia, New Zealand, and Chile leaving rest of the journey up to Canada for the Flights back home left to us to arrange before we go or whilst underway.
 
-I'm not sure when it was that Vanessa told me about our friend Gina's wedding. Gina is from New Zealand and she had stayed with us last summer, when we met her new man too. There certainly wasn't any talk of an imminent wedding then. I'm guessing we were invited a wee while before I retired and we did fancy that it would be nice to go, but it wasn't until well after the St Kilda trip that the two came together: We had a wedding to go to and a suddenly 'unvague' idea that we really should get to see all those friends we had in different places around the world. We just had to got to Australia: to see Margie and Leoni, Kevin and Carmel; there was the weddding in New Zealand, of course; Virginia or Colorado (or wherever) to catch up with Carol and Pete; Los Angeles with Marlene and Dave, old friends of Vanessa and new friends for me to meet; Canada and Nicholas and Ann, hopefully Jess and Tim and Tiare too. 
-
-Settled then! 
+We put Antipodes and the Americas to the back of our minds to concentrate on that first six month of our trip taking us eventually to Australia. Especially China Since in order to get a visa for Chine you have to have proof of your flights in and out and the booked accommodation for every night you are in China. Anyway, that's the stuff of another post. 

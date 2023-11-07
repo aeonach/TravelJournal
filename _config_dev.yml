@@ -2,8 +2,8 @@
 title: PhotoJournal
 email: ""
 description: "Photo Journal"
-url: "http://davidandvanessa.com"
-baseurl: 
+url: ""
+baseurl: "/PhotoJournal"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   David and Vanessa
+  name:   PhotoJournal
   avatar: 
   favicon: favicon.ico
-  info: Travel Journal
+  info: photo journal template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY:  "/gallery/"  
-  - JOURNAL: "/journal/"
-  - ABOUT: "/about/"
+  - GALLERY: "/PhotoJournal/gallery/"  
+  - JOURNAL: "/PhotoJournal/journal/"
+  - ABOUT: "/PhotoJournal/about/"
 
 # All translation keys
 translations:
