@@ -10,24 +10,24 @@ header-img: "img/postcover/pc007.jpg"
 comments: "true"
 gallery1: 
   - image_path: /img/galleries/g01/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
+    image-caption: 
+    image-copyright: © David Colquhoun
   - image_path: /img/galleries/g01/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
+    image-caption: 
+    image-copyright: © David Colquhoun
   - image_path: /img/galleries/g01/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+    image-caption: 
+    image-copyright: © David Colquhoun 
 gallery2: 
   - image_path: /img/galleries/g02/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
+    image-caption: 
+    image-copyright: © David Colquhoun
   - image_path: /img/galleries/g02/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
+    image-caption: 
+    image-copyright: © David Colquhoun
   - image_path: /img/galleries/g02/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+    image-caption: 
+    image-copyright: © David Colquhoun 
 ---
 
 
