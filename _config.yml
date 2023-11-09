@@ -58,6 +58,7 @@ categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
 plugins: 
  - jekyll-paginate
+ - faraday-retry
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # SiteMap
