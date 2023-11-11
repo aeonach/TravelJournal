@@ -10,12 +10,14 @@ date: "2023-11-05"
 header-img: "img/postcover/winter.jpg"
 tags: Preparations
 categories:
-comments: false
+comments: true
+class:
+opacity:
 ---
 
 After hanging around as a vague idea of something that we really 'should' do when I retired, the notion of visiting our friends and relatives around the world is now becoming very real.
 
-When I did finally retire at the end of March, we had a head full of ideas about what we wanted to do around Scotland. All that work getting the van just right would now pay off. In January we booked a trip to St Kilda and that gave uas a good excuse to re-visit Lewis. The last time we were there, was just after the first Covid lockdown. Although we had a great time, there were a few things we wished we could have visited. We also now had Jenny and Mike to visit. I must say, however we hadn't held out much hope that the visit to St. Kilda would come of at that time of year, April in Scotland can still throw a bunch of weather at you. In the end the weather was better than many a mid-summer's day and so we had a great time on St. Kilda. 
+When I did finally retire at the end of March, we had a head full of ideas about what we wanted to do around Scotland. All that work getting the van just right would now pay off. In January we booked a trip to St Kilda and that gave uas a good excuse to re-visit Lewis. The last time we were there, was just after the first Covid lockdown. Although we had a great time, there were a few things we wished we could have visited. We also now had Jenny and Mike to visit. I must say, however, that we hadn't held out much hope that the visit to St. Kilda would come of at that time of year, April in Scotland can still throw a bunch of weather at you. In the end the weather was better than many a mid-summer's day and so we had a great time on St. Kilda. 
 
 Soon after that something else came back to mind: hadn't we been invited to Gina's wedding? Gina lives in New Zealand. It might sound a long way for a wedding, but then that vague idea of an 'around the world ticket' started to grow arms and legs. Yes, that was it. Now when was that wedding again?
 
