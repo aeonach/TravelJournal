@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Chinese Visa"
+subtitle:   "the long and the short of it"
+active: journal
+author: David
+image:
+  feature: “visachina.jpg”
+date:       2023-11-12 
+header-img: “/img/postcover/visachina.jpg”
+tags: [Preparations]
+categories: 
+comments: false/true
+class: img-lighten 
+opacity: 0.5
+photocredit: Photo by [Christian Lue](https://unsplash.com/@christianlue?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-green-and-blue-world-map-2Juj2cXWB7U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+---
+
+For most of the places we would be travelling to, visas are a relatively straight forward affair. Comprising of little more than the stamp in your passport at the border to an online application. All, of course with varying limitations on the amount of time you may stay in the country; possibly proof of onward travel; maybe even proof you have enough money to fund your stay. China was a different matter.
+
+Firstly, you actually have to attend a visa processing centre. Luckily for us there is one in Edinburgh. There you have your photo and your finger prints taken and you need to provide proof of both flights in and out of the country and booked accommodation for every night of your stay. Then there is the application form. Strangely, you do this online, but you need to then print it out and bring it with you. Although this all sounded straight forward, it still felt a little intimidating.
+
+We headed up to Edinburgh on the train, with sheafs of printouts for everything we needed only to be met with the announcement by the attendant at the visa centre that the computers were 'down'. Although we were being encouraged to come at another time, they accepted that we had come a long way and agreed to let us come back between 1 and 2pm when they hoped the engineer would have been and sorted the computers. To that end they then went through our application forms.
+
+Did I say straight forward? Well, first off, we hadn't read the requirements properly. We needed a 'copy' of our passports and although we did have our passports with us, no they don't have a photocopier available. Then one of our printouts had the wrong passport expiry date and no you can't change it, but you can go online and re-do it. Of course, they don't have any wi-fi, so you have to connect up with your phone and no they don't have the facility for you to print it out once you've re-done it. Is there anywhere we can do that? Yes, there's a Post Office nearby.
+
+However,  you cannot go there and print from your own machine. Instead you need to email everything to yourself and then go onto webmail on their computer. The guy at the Post Office was, however, great about it, he just gave you the log-in to the computer and left you to just get on with it but, not as simple as it sounded. 
+
+The computer looked normal, but then when I opened the browser everything was in Chinese and I mean everything. It was impossible to get it back to English, I fumbled around pushing the buttons I thought I remembered in the English version of the site. It was clear that this Post Office got a fair amount of business from the Chinese Visa Processing Centre.
+
+In this situation we were downloading highly personal information on to a public computer in order to print it off. In the process of cleaning up after myself I was shocked to see how much stuff other people left around. There were bank statements, CV's, birth certificates, passport photocopies, it didn't seem like it would be too hard to steal a few identities here. I made sure all of ours were gone and cleaned up the rest I could see too. So, back to the Visa centre, but only briefly - we'd re-done the online visa application with the exact same mistake we'd started with. Online with our personal hotspot again, around to the Post Office again. All sorted.
+
+Now there was the proper check where the woman looked over our 'evidence'. The Booking dot Com downloads didn't have any names on them, they didn't really even say they were for two people. As for the flights all we had was our itinerary, and it didn't always have both of our names. At one point I thought it just wasn't going to happen, but then we could just write our names on the booking evidence and the ticket itinerary. Finally they accepted all our stuff, but it still had to go somewhere to actually be approved. We had a date for the following Friday to pick up our passports, I still wasn't confident that we'd actually get our visas.
+
+The Friday came and I picked up the visas. We had actually been granted a two year multiple entry visa. What had seemed like a big hurdle was all behind us now and we could start some serious planning.
+
+
+
+
+{{page.photocredit}}
+
+
+
+
+
