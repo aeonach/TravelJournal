@@ -2,8 +2,8 @@
 title: TravelJournal
 email: ""
 description: "Bookmark this site to keep updated on our travels"
-url:
-baseurl: "http://davidandvanessa.com"
+url: "https://aeonach.github.io"
+baseurl: "/TravelJournal"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY:  "/gallery/"  
-  - JOURNAL: "/journal/"
-  - ABOUT: "/about/"
+  - JOURNAL: "https://aeonach.github.io/journal/"  
+  - GALLERY:  "https://aeonach.github.io/gallery/"  
+  - ABOUT: "https://aeonach.github.io/about/"
 
 # All translation keys
 translations:
