@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - JOURNAL: "https://aeonach.github.io/journal/"  
-  - GALLERY:  "https://aeonach.github.io/gallery/"  
-  - ABOUT: "https://aeonach.github.io/about/"
+  - JOURNAL: "https://aeonach.github.io/TravelJournal/journal/"  
+  - GALLERY:  "https://aeonach.github.io/TravelJournal/gallery/"  
+  - ABOUT: "https://aeonach.github.io/TravelJournal/about/"
 
 # All translation keys
 translations:
