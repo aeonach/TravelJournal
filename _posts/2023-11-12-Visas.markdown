@@ -7,7 +7,7 @@ author: David
 image:
   feature: "visachina.jpg"
 date:       2023-11-12 
-header-img: "/img/postcover/visachina.jpg"
+header-img: "img/postcover/visachina.jpg"
 tags: [Preparations]
 categories: 
 comments: false/true

@@ -7,7 +7,7 @@ author: David
 image:
   feature: "Egypt.jpg"
 date:       2023-11-10 
-header-img: "/img/postcover/Egypt.jpg"
+header-img: "img/postcover/Egypt.jpg"
 tags: [Preparations]
 categories: 
 comments: true
