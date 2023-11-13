@@ -5,9 +5,9 @@ subtitle:   "Sadly not"
 active: journal
 author: David
 image:
-  feature: "egypt.jpg"
+  feature: "Egypt.jpg"
 date:       2023-11-10 
-header-img: "/img/postcover/egypt.jpg"
+header-img: "/img/postcover/Egypt.jpg"
 tags: [Preparations]
 categories: 
 comments: true
