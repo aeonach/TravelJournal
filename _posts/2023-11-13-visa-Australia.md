@@ -12,9 +12,10 @@ categories:
 comments: true
 class: img-lighten 
 opacity: 0.5
-photocredit: Photo by [Photoholgic](https://unsplash.com/@photoholgic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountain-under-blue-sky-1GFUOji-yck?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)  
+photocredit: Photo by [Photoholgic](https://unsplash.com/@photoholgic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountain-under-blue-sky-1GFUOji-yck?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 ---
 
+ 
 Well, who would have thought. 
 
 The seemingly big hurdle of the visa for China out of the way and it's down to the easy stuff. The visa stuff is always 'a thing' - almost all countries offer you an eVisa, which sounds really attractive. No queuing at the border immigration office, no having to make sure you've got the dollars. However, it's quite different when you get down to it.
