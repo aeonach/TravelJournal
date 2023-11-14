@@ -4,9 +4,9 @@ title:      "Viva Australia"
 subtitle:   "...sorry - visa Australia"
 active: journal
 image:
-  feature: ".jpg"
-date:       2016-03-05 
-header-img: "img/postcover/"
+  feature: "australia.jpg"
+date:       2023-11-13 
+header-img: "img/postcover/australia.jpg"
 tags: [Preparations]
 categories: 
 comments: true
