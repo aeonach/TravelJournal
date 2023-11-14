@@ -405,4 +405,9 @@ body {
 .fa-stack-2x {
  color: black;
 }
-
+#logo {
+width:50px; 
+height:50px; 
+cursor:pointer;
+margin-top:15px;
+}
