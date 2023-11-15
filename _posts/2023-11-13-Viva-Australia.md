@@ -10,7 +10,7 @@ date:       2023-11-13
 header-img: "img/postcover/australia.jpg"
 tags: [Preparations]
 categories: 
-comments: true
+comments: false
 class: img-lighten 
 opacity: 0.5
 photocredit: Photo by [Photoholgic](https://unsplash.com/@photoholgic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountain-under-blue-sky-1GFUOji-yck?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
