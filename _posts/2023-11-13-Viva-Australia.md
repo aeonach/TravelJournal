@@ -3,6 +3,7 @@ layout:     post
 title:      "Viva Australia"
 subtitle:   "...sorry - visa Australia"
 active: journal
+author: David
 image:
   feature: "australia.jpg"
 date:       2023-11-13 
