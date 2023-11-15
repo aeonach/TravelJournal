@@ -10,7 +10,7 @@ date:       2023-11-12
 header-img: "img/postcover/visachina.jpg"
 tags: [Preparations]
 categories: 
-comments: false/true
+comments: true
 class: img-lighten 
 opacity: 0.5
 photocredit: Photo by [Christian Lue](https://unsplash.com/@christianlue?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-green-and-blue-world-map-2Juj2cXWB7U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
