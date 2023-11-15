@@ -24,7 +24,7 @@ The seemingly big hurdle of the visa for China out of the way and it's down to t
 We're now looking at places 3-6 months in advance. You can get your eVisa now, but it will have expired by the time you get there. They ask you your entry point, which we have an idea of, but what if we change our minds. Know what? if it's available at the border let's just do that. So, on to the easy ones.
 
 **USA:**
-A dawdle, at least if you've not been to a heap of countries they don't like, notably Cuba. 
+A dawdle, at least if you've not been to a heap of countries they don't like, most notably Cuba. 
 
 **Canada:**
 They don't seem to give hoot. 
