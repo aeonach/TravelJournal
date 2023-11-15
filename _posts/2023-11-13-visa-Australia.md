@@ -26,13 +26,13 @@ We're now looking at places 3-6 months in advance. You can get your eVisa now, b
 A dawdle, at least if you've not been to a heap of countries they don't like, notably Cuba. 
 
 **Canada:**
-They dont seem to give hoot. 
+They don't seem to give hoot. 
 
 **New Zealand:**
-Och! just show up.
+Och! Just show up.
 
 **Australia:**
-Vanessa got the email granting her visa in under a minute, before she even got the email acknowledging her application. Me? Ten hours later...
+Vanessa got the email granting her visa in under a minute, before she even got the email acknowledging her application. Me? 24 hours later...
 
 Now there you go, who would have thought that getting kicked out for working without the appropriate visa 25 years ago would make all that difference. And after all those mangos I helped them get to market.
 
