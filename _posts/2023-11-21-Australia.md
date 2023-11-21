@@ -5,9 +5,9 @@ subtitle:   "here we come!"
 active: journal
 author: David
 image:
-  feature: "AustraliaApprove.jpg"
+  feature: "AustralianApprove.jpg"
 date:       2023-11-21 
-header-img: "img/postcover/AustraliaApprove.jpg"
+header-img: "img/postcover/AustralianApprove.jpg"
 tags: [Preparations]
 categories: 
 comments: true
