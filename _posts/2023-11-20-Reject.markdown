@@ -8,7 +8,7 @@ image:
   feature: "AustralianReject.jpg"
 date:       2023-11-20 
 header-img: "img/postcover/AustralianReject.jpg"
-tags: preparations
+tags: [Preparations]
 categories: 
 comments: true
 class: img-lighten 
