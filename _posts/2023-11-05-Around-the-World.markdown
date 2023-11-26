@@ -15,7 +15,7 @@ class:
 opacity:
 ---
 
-After hanging around as a vague idea of something that we really 'should' do when I retired, the notion of visiting our friends and relatives around the world was suddenly became very real.
+After hanging around as a vague idea of something that we really 'should' do when I retired, the notion of visiting our friends and relatives around the world suddenly became very real.
 
 When it did finally arrive at the end of March, travelling 'Around the World' never even entered our minds. We had a head full of ideas about what we wanted to do around Scotland. Having done all that work getting the van just right after all.
 
