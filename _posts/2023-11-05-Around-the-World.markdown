@@ -25,7 +25,9 @@ Still, when we booked it in January, we hadn't held out much hope that it would 
 
 Anyway, that's a post all of it's own. 
 
-Even after St Kilda we weren't thinking about much else than Scotland and particularly Shetland. Of course, for a few years now we've also always gone to Austria for the Bregenzer Festspiele in July  and our heads were still full of all that. Then, something else came back to mind: hadn't we been invited to Gina's wedding? 
+Even after St Kilda we weren't thinking about much else than Scotland and particularly Shetland. Of course, for a few years now we've also always gone to Austria for the Bregenzer Festspiele in July  and our heads were still full of all that too. 
+
+Then, something else came back to mind: hadn't we been invited to Gina's wedding? 
 
 Gina lives in New Zealand. It might sound a long way for a wedding, but then we did always have that vague idea of visiting friends and family, so that turned into the idea of getting an 'around the world' ticket. Yes, that was it. Now when was that wedding again? That was it, the middle of May. 
 
