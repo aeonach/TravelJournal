@@ -15,13 +15,13 @@ class:
 opacity:
 ---
 
-After hanging around as a vague idea of something that we really 'should' do when I retired, the notion of visiting our friends and relatives around the world was now becoming very real.
+After hanging around as a vague idea of something that we really 'should' do when I retired, the notion of visiting our friends and relatives around the world was suddenly became very real.
 
-When it finally happened  at the end of March, that never even entered our minds. We had a head full of ideas about what we wanted to do around Scotland. All that work getting the van just right would now pay off.
+When it did finally arrive at the end of March, travelling 'Around the World' never even entered our minds. We had a head full of ideas about what we wanted to do around Scotland. Having done all that work getting the van just right after all.
 
-In January we'd booked a trip to St Kilda, also giving us a good excuse to re-visit Lewis. The last time we were there was just after the first Covid lockdown and although we had a great time, there were a few things we just couldn't visit. Then too, we also now had Jenny and Mike to visit. 
+As far abck as January we'd booked a trip to St Kilda, which also gave us a good excuse to re-visit Lewis. The last time we were there was just after the first Covid lockdown and although we had a great time, there were a few things we just couldn't visit. Then too, we also now had Jenny and Mike to visit. 
 
-Still, when we booked it in January, we hadn't held out much hope that it would happen - April in Scotland can still throw a bunch of weather at you, but how wrong we were. In the end the weather was better than many a mid-summer's day. The sun shone, the sea was flat calm and it was, well, St Kilda. 
+Still, when we booked it in January, we hadn't held out much hope that it would happen - April in Scotland can still throw a bunch of weather at you. How wrong we were. In the end the weather was better than many a mid-summer's day. The sun shone, the sea was flat calm and it was, well, St Kilda. 
 
 Anyway, that's a post all of it's own. 
 
