@@ -29,7 +29,7 @@ Even after St Kilda we weren't thinking about much else than Scotland and partic
 
 Then, something else came back to mind: hadn't we been invited to Gina's wedding? 
 
-Gina lives in New Zealand. It might sound a long way for a wedding, but then we did always have that vague idea of visiting friends and family, so that turned into the idea of getting an 'around the world' ticket. Yes, that was it. Now when was that wedding again? That was it, the middle of May. 
+Gina lives in New Zealand. It might sound a long way for a wedding, but then we did always have that vague idea of visiting friends and family, so that turned into the idea of getting an 'around the world' ticket. Yes, that was it. Now when was that wedding again? It was the middle of May. 
 
 We decided upon the 13th of December as our start date, so we had a lot of planning to do. Since his might be our last chance at such a big trip, we wanted to see as much as we could, but we didn't want to just run around ticking off all the must see sights. We wanted to stop long enough to get a real feel for the countries we were going to visit. Nonetheless, with that deadline in May there was always going to be a danger of trying to cram too much in and that's exactly what we ended up doing.
 
