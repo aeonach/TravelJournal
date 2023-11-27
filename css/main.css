@@ -217,6 +217,9 @@ hr.small {
 .post-preview > a {
   color: #1b1b1b;
 }
+.post-preview img {
+opacity: 0.5;
+}
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
