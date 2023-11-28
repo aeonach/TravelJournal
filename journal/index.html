@@ -38,6 +38,7 @@ header-img: "img/World-Map-2000.jpg"
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
 	<img src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
+	{% else %}
 	{% endif %}
  
  
