@@ -20,7 +20,7 @@ Five full days in Delhi!
 
 There was a point where we thought: 'Have we made a mistake?' In the end it was just right, even if the last day was just spent wandering around the upmarket Connaught Place. It was good to relax after chasing around seeing the sights.
 
-When we first arrived at the hotel we were greatly relieved that we could have our room early. However, our hopes of getting some sleep were shattered by the construction work next door. We gave up and just went for a walk around until evening got close up and personal with what seemed like mayhem. We could start tomorrow.
+When we first arrived at the hotel we were greatly relieved that we could have our room early. However, our hopes of getting some sleep were shattered by the construction work next door. We gave up on the idea of sleeping, or really it gave up on it's own, and just went for a walk until evening. Getting close up and personal with what seemed like mayhem. We could start the serious stuff tomorrow.
 
 Our first idea back home had been to visit Agra (Taj Mahal) and the travel on to Varanasi, but it would have meant a fair bit of backtracking, so in the end we decided on the Taj Mahal and Agra Fort as a day trip out of Delhi. For that we hired a car and 'Guide'. I've never travelled with a 'guide' before, it's reassuring to find out that had never been a poor choice. 
 
