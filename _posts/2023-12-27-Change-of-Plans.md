@@ -7,7 +7,7 @@ author: David
 image:
   feature: "jodhpurfortpano.jpg"
 date:       2023-12-27 
-header-img: "img/postcover/trainjourney.jpg"
+header-img: "img/postcover/jodhpurfortpano.jpg"
 tags: India 
 categories: 
 comments: true
@@ -18,10 +18,10 @@ photocredit:
 
 All those preparations for India. We sat for hours, tried to master the Indian rail system, booked hotels on Booking.com. Plenty of nights we just gave up and decided - tomorrow.
 
-We chopped and changed until we finally thought we had it. There were a few things that we'd need to do along the way, we thought we knew them all. Rajasthan we needed to book a taxi from Jaisalmer to Barmer, but decided irt would be easier to do that when we arrived
+We chopped and changed until we finally thought we had it. There were a few things that we'd need to do along the way, we thought we knew them all. Rajasthan we needed to book a taxi from Jaisalmer to Barmer, but decided it would be easier to do that when we arrived
  in Jaisalmer, otherwise we had it all done.
 
-It was only the night before we set of for Jaisalmer that we saw a gaping hole in our plans - Barmer to Udaipur. We had nothing booked and when we now looked at it, we could see why we had shelved it. There were no reasonable connections, one of the ones for the 'tomorrow' that we forgot to set aside.
+Except, the night before we set of for Jaisalmer we saw a gaping hole in our plans - Barmer to Udaipur. We had nothing booked and when we now looked at it, we could see why we had shelved it. There were no reasonable connections, one of the ones for the 'tomorrow' that we forgot to set aside.
 
 We had tried to do as much of the trip as we could without flying and without backtracking, but now realised that since we couldn't find a suitable way of getting from Barmer to Udaipur we'd have to abandon Barmer. That wasn't hard as we'd only come upon it as a way of breaking up the journey anyway. 
 
