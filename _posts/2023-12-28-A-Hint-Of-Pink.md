@@ -14,6 +14,7 @@ comments: true
 class: img-lighten 
 opacity: 0.5
 photocredit:
+
 ---
 
 Research and research, chasing through Lonley Planet, Rough Guide, 
