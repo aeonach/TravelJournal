@@ -17,7 +17,7 @@ photocredit:
 ---
 
 Research and research, chasing through Lonley Planet, Rough Guide, 
-Googling Jiapur, Jodhpur, Jaisalmair, yes I've got it....No. After two weeks
+Googling Jiapur, Jodhpur, Jaisalmer, yes I've got it....No. After two weeks
 of amazement, surprises, contradictions are still constantly knocking 
 me sideways. 
 
