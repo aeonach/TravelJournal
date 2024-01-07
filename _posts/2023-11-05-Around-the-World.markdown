@@ -21,6 +21,8 @@ Although, when that retirement finally arrived at the end of March, travelling '
 
 As far back as January we'd booked a trip to St Kilda, which also gave us a good excuse to re-visit Lewis. The last time we were there was just after the first Covid lockdown and although we had a great time, there were a few things we just couldn't visit and then too there were also now Jenny and Mike to visit. 
 
+![Alt Text](img/taj.jpg){ align=right width=300px height=200px }
+
 Still, when we booked it in January, we hadn't held out much hope that it would happen - April in Scotland can still throw a bunch of weather at you. How wrong we were. In the end the weather was better than many a mid-summer's day, probably even just as warm. The sun shone, the sea was flat calm and it was, well, St Kilda. 
 
 Anyway, that's a post all of it's own. 
