@@ -19,9 +19,7 @@ After hanging around as a vague idea of something that we really *should* do whe
 
 Although, when that retirement finally arrived at the end of March, travelling 'Around the World' never even entered our minds. We had a head full of ideas about what we wanted to do around Scotland. Having done all that work getting the van just right after all.
 
-As far back as January we'd booked a trip to St Kilda, which also gave us a good excuse to re-visit Lewis. The last time we were there was just after the first Covid lockdown and although we had a great time, there were a few things we just couldn't visit and then too there were also now Jenny and Mike to visit. 
-
-![Alt Text](img/taj.jpg){ align=right width=300px height=200px }
+As far back as January we'd booked a trip to St Kilda, which also gave us a good excuse to re-visit Lewis. The last time we were there was just after the first Covid lockdown and although we had a great time, there were a few things we just couldn't visit and then too there were also now Jenny and Mike to visit.
 
 Still, when we booked it in January, we hadn't held out much hope that it would happen - April in Scotland can still throw a bunch of weather at you. How wrong we were. In the end the weather was better than many a mid-summer's day, probably even just as warm. The sun shone, the sea was flat calm and it was, well, St Kilda. 
 
