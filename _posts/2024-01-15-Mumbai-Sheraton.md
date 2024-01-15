@@ -22,7 +22,7 @@ It felt like we had been constantly chasing our own tails, getting on a train or
 
 All of the staff at the hotel made us feel like we were special guests and we'd like to thank them all for that.
 
-It's goodbye to Mumbai for us now and of to Aurangabad and back on the tourist route. Although I will get back to Mumbai soon and our eventful arrival at Mumbai Central Station.
+It's goodbye to Mumbai for us now and off to Aurangabad and back on the tourist route. Although I will get back to Mumbai soon and our eventful arrival at Mumbai Central Station.
 
 
 
