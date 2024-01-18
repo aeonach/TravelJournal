@@ -32,7 +32,7 @@ img {
   height:100%
 }
 </style> 
-<img src="{{ste.baseurl}}/PhotoJournal/img/postbody/busmap.jpg">
+<img src="/img/postbody/busmap.jpg">
 We decided to use the local buses to get to the ‘step well’ which was about 16km outside the city. I use ‘Google Transit’ all the time back home and by back home I mean throughout Europe. Just pop in your destination and it sends you to the nearest bus stop. You probably know how it works, but in India? Wow! Look, the buses you need to catch and the exact spot to catch it - another bus station, one we’d missed. When we arrived at what we thought to be the location of the Google bus station, we were reassured at first. It was certainly on the bus route, as there were plenty of buses flying by. Some even had numbers that Google recommended. Bus station? We were at least three times around the ‘Mirzapur Road Triangle’; stopping, waiting and looking on each cycle. The ‘bus station’ had evidently disappeared, we couldn’t even recognise a bus stop and all the buses that passed travelled in the middle of the three lanes of traffic, we saw no way of stopping any bus. We decided to head for that bus station we’d seen before, and luckily it was still where we had remembered it to be.
 
 Now we were in much more familiar territory, much more reassuring. As mentioned, island after island, with row after row of what were unmistakably bus stops. Strangely, however, there weren’t that many buses and those that were there didn’t seem to be going anywhere. Also, none of them had numbers we could recognise. We needed local expertise. That seemed easy enough to find. Each island had a small office, none of them actually manned in the sense of having someone sitting in them, but there was one with a huddle of men around the door, even a man who had what could indistinctly pass for a uniform. 
@@ -52,7 +52,7 @@ img {
   margin: 0px 0px 15px 20px;
 }
 </style> 
-<img src="{{ste.baseurl}}/PhotoJournal/img/postbody/busmap2.jpg">
+<img src="/img/postbody/busmap2.jpg">
 He knew as little as us about the bus we wanted to take, but unlike us at least he had a handle on the language. The area we got to, with the information we had, was a seemingly massive road interchange. It was probably just a road junction, but instead of two roads crossing, we could only see four roads meeting. Each of these roads had two carriageways, but each carriageway had at least three lanes of traffic and an outer and inner squeeze lane for scotters and bikes. I can’t begin to truly paint the picture, but our driver pulled up and stopped and asked, jumped back in and crossed the five lanes of traffic, including the squeeze lanes. Its hard to say now if any two lanes on the this carriageway were actually travelling in the same direction, it's impossible to stop yourself trying to impose a structure where there is none. Onto another carriageway and next... I say next, but in fact none of this appeared to happen sequentially at the time. So next, he then joined what we now saw was the single carriageway four lane roundabout (ignore the notional Google arrows indicating the flow of traffic) and chose to go contraflow in one of the 'lanes' to get to one of the other joining four lane carriageways. We were no longer in the ‘Mirzapur Road Triangle’ but the BAPS Circle. Dante came to mind. 
 
 Finally, he found the bus office, I know that we never could have. But our ordeal wasn’t yet over.
