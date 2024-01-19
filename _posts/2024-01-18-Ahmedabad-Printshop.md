@@ -52,7 +52,7 @@ img {
 <img src="/img/postbody/printman.jpg">
 <figcaption>Vaibhav Shah</figcaption>
 </figure>
-Another pleasant surprise was at the print shop. We'd decided it would be nice to have a stamp to make it easier to share our website with people we met. We popped into Ajanta Stamp and enquired how long it would take. He said he could do it in two hours. After he'd found the graphic we liked he also offered to let us see how it was made at his other office. I'd say we were no more than half an hour until we had our stamp. When we went back to the shop to pay, we were told it was a gift and we could not persuade him to take any payment. We are very grateful for that gift and have used it often.
+Another pleasant surprise was at the print shop. We'd decided it would be nice to have a stamp to make it easier to share our website with people we met. We popped into Ajanta Stamp and enquired how long it would take. Vaibhav said he could do it in two hours. After he'd found the graphic we liked he also offered to let us see how it was made at his other office. I'd say we were no more than half an hour until we had our stamp. When we went back to the shop to pay, we were told it was a gift and we could not persuade Vaibhav to take any payment. We are very grateful for that gift and have used it often.
 
 On our way back from the visit to the stepwell we even had a taxi driver hail us a Tuk-Tuk and tell the driver what he was to charge us. Ahmedabad, for all it felt like a step back into the hell that was Delhi turned out to be very pleasant host to us. The stepwell and the Gandhi Ashram were well worth the visit, but most of all the people were honest and friendly.
 
