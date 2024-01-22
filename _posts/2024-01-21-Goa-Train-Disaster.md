@@ -52,7 +52,7 @@ img {
   height:100%
 }
 </style> 
-<img src="{{site.baseurl}}/img/postbody/centroman.jpg">
+<img src="/img/postbody/centroman.jpg">
 It always feels a bit off to ask someone whose already offered you a solution - yes you can stay here. Well...could you help us book this instead, please? The guy on the desk at Centro was great, but even for him it took two attempts to secure the 'Deluxe Room #3' and he had to use his personal payment method as it wouldn't accept international cards. We only had the room for twelve hours (3 in the afternoon until 3am). In the end the train was delayed for over 13 hours arriving, after six in the morning. Without that room we would have had to spend all of that time on the platform with our bags. Instead, we just dumped our bags and jumped in a Tuk-Tuk. 
 
 It was off to 'The Rooftop Project', a rooftop bar where we'd spent the previous afternoon watching the kites soar and swoop over Pune.
@@ -64,7 +64,7 @@ img {
   height:100%
 }
 </style> 
-<img src="{{site.baseurl}}/img/postbody/rooftop.jpg">
+<img src="/img/postbody/rooftop.jpg">
 This gave us another treat that evening: our first sunset in India. I know, it sounds odd but even although we've never had clouds, the sun has never appeared as a distinct celestial body. Instead only as a fuzzy brightness behind the smog. Even in Jaisalmer where we'd had a more distinct impression of the sun it's disappearance into the smog with over an hour of daylight left never felt like a sunset. This was different, it was recognisably a real sunset. 
 
 We got back to our room on the first floor of the train station at about 8pm and watched 'Heat and Dust'. We'd bought it to stream for just such a moment in India. Our room was far from 'Deluxe' and constant station announcements and the blaring of train horns assured us we had no chance of anything resembling a restful evening. Still, this spartan cell was a wonderful respite. We even managed to rig the computer up to the telly. 
