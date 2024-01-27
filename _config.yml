@@ -29,7 +29,7 @@ owner:
 comments :
   provider : disqus
   disqus :
-    short_name : ""
+    short_name : "Aeonach"
 
 # Internal nav
 nav:
