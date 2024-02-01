@@ -6,7 +6,7 @@ active: journal
 author: David
 image:
   feature: "goa.jpg"
-date:       2014-02-01
+date:       2024-02-01
 header-img: "img/postcover/goa.jpg"
 tags: India
 categories: 
