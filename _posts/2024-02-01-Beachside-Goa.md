@@ -26,7 +26,7 @@ I started this post on our previous last day in Goa, but that was just plain stu
 
 Didn't work for me.
 
-I have never thought of us as beach people until we got here. It made us think just how much time we spend by the sea in Scotland, but it rarely feels like a beach holiday, not the way these six days in Goa felt. Of course, here we lie on a sun-bed and someone brings us our beer. To stay half civilised we do walk up to the bar to take our meals, but again unlike in Scotland someone cooks it for us. Goan fish curry, tandoori baked fish and tandoori naan that makes you promise yourself you'll never buy another Sharwoods when you get back home. Then, I realise exactly why we never classified ourselves as beach people, we go to the seashore - this is the beach.
+I have never thought of us as beach people until we got here. It made us think just how much time we spend by the sea in Scotland, but it rarely feels like a beach holiday, not the way these six days in Goa felt. Of course, here we lie on a sun-bed and someone brings us our beer. To stay half civilised we do walk up to the bar to take our meals, but again unlike in Scotland someone cooks it for us. Goan fish curry, tandoori baked fish and tandoori naan that makes you promise yourself you'll never buy another Sharwoods when you get back home. Then, I realise exactly why we never classified ourselves as beach people. In Scotland we go to the seashore - this is the beach.
 
 <style>
 img {
@@ -42,9 +42,9 @@ We've just had two days in Hampi which is one of the most amazing places we have
 
 Our trip back here to Goa was through some wonderful jungle scenery which was some compensation for another long delay. Wait, whatever am I saying? Four hours delay in India? On another journey we spoke to a young man travelling to his parents hometown of Kolkota. For him, including the delays, the journey was over 60 hours. The trains are remarkable here, everything about them, but you do need the luxury of time and a different mindset to that we acquire in the UK.
 
-So, another day in the sun (I'll try to sort some photos), and tomorrow our last train journey in India. There's a sigh of relief, but no hurrah. I would do it again. Perhaps a little differently.
+So, another day in the sun (I'll try to sort some photos), and tomorrow our last train journey in India. There's a sigh of relief, but no hurrah. I would do it again. Some of our choices would be a little different, but not that much.
 
-You start to miss India even before you leave it.
+You start to miss India, even before you leave it.
 
 
 
