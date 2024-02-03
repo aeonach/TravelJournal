@@ -22,13 +22,13 @@ Sitting on the train waiting for that surge of brakes that occaisionally appears
 
 ‘Don’t eat anything raw. Only drink bottled water and check the top seal is intact before drinking. Beware the spicy food. Always carry toilet paper …’ by the time you’ve read the ‘Survival Guide’ you might as well stay at home.
 
-I began tentively with dhal fry and plain chapati. We worked out that the fry bit means you fry the spices (cumin, garam masala, corriander, cumin seeds, chilli, ginger and so much more) before adding lentils and chickpeas soaked overnight and then mashed. It’s a lovely saffron/turmeric colour with fenugreek leaves and has the flavour of a gently spiced lentil soup. Consistency, spice and colour varies from time to time but, scooped up rather messily with fresh chapatti, just perfect for the novice.
+I began tentively with dhal fry and plain chapati. We worked out that the fry bit means you fry the spices (cumin, garam masala, corriander, cumin seeds, chilli, ginger and so much more) before adding lentils and chickpeas soaked overnight and then mashed. It’s a lovely saffron/turmeric colour with fenugreek leaves and has the flavour of a gently spiced lentil soup. Consistency, spice and colour varies from time to time but, scooped up rather messily with fresh chapati, just perfect for the novice.
 
-While still sticking to vegitarian, I became bolder...Malai koftia…it was the word ‘mild’ on the menu, that led me to it, a soft slightly mushy dumpling of paneer (a cream/cottage cheese) and herbs and spices in a mild cream and tomato sauce together with more chapati scooping. 
+While still sticking to vegitarian, I became bolder...Malai Kofta…it was the word ‘mild’ on the menu, that led me to it, a soft slightly mushy dumpling of paneer (a cream/cottage cheese) and herbs and spices in a mild cream and tomato sauce together with more chapati scooping. 
  
 I was getting there!
 
-Bolder still…chicken tikka masala, sword fish tikka, fish curry, chicken tikka, nan (either garlic, butter or just beautifully plain) with crunchy edges…and now, after almost two months, when given the choice ‘spicy or non spicy’ I go ‘mild spicy
+Bolder still…chicken tikka masala, sword fish tikka, fish curry, chicken tikka, nan (either garlic, butter or just beautifully plain) with crunchy edges…and now, after almost two months, when given the choice ‘spicy or non spicy’ I go ‘mild spicy.
 
 
 
