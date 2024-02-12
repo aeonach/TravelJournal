@@ -18,6 +18,14 @@ photocredit:
 
 Our four days in Bankok were enough. Not enough to fully explore Bankok, but we've got things to do. We may not have an itinerary, but our heads are full of ideas of what we want to do in the little time we have in SE Asia.
 
+<style>
+img {
+  float: right;
+  margin: 0px 0px 15px 20px;
+  width: 50%
+}
+</style> 
+<img src="/img/postbody/traindiner.jpg">
 We boarded the train at ten last night. We couldn't get a berth in the sleeper car, but our carriage was clean and comfortable with a surprising amount of legroom and a reasonable recline. No sleep, but I can't say I sleep much in the sleeper cars anyway - just a few less aches compared to sitting up all night.
 
 Now it's just after dawn in the restaurant car. It's fresh with all the windows open, but what a way to travel. Fresh air and unhindered views as we climb through the jungle up to Chiang Mai. 
