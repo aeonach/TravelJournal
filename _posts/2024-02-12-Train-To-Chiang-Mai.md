@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Chang Mai"
+title:      "Chiang Mai"
 subtitle:   "...at last we're on the move again"
 active: journal
 author: 
