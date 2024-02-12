@@ -3,7 +3,7 @@ layout:     post
 title:      "Chiang Mai"
 subtitle:   "...at last we're on the move again"
 active: journal
-author: 
+author: David
 image:
   feature: "trainchiangmai.jpg"
 date:       2024-02-12
