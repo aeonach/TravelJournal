@@ -44,11 +44,11 @@ or,
 
 "People don't speak English."
 
-Today I've worked it out: He's just a miserable bastard. You meet miserable bastards all over the world. Usually their really nice people. Unlike many, they'll talk to you and you'll come away feeling, firstly that you just met a really nice guy, then just miserable. 
+Today I've worked it out: He's just a miserable old man. You meet miserable people young and old all over the world. Usually their really nice people. Unlike many, they'll talk to you and you'll come away feeling, firstly that you just met a really nice guy, then just miserable. 
 
-'Man does just hand on misery to man'. 
+'Man does hand on misery to man'. 
 
-Still I woke up with a cloud that had nothing to do with last night's drinks at a rooftop bar overlooking the Mekong, it was the shroud from yesterday's train journey. 
+Still, I woke up with a cloud that had nothing to do with last night's drinks at a rooftop bar overlooking the Mekong, it was the shroud from yesterday's train journey. 
 
 We had breakfast and went to the Post Office to send some things home. It was clean and efficient, unlike our last time in India. It didn't involve any 'extra payments', no rounding down or up. We just sent our shit home like you'd send shit home.
 
