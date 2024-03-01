@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Leaving Laos"
-subtitle:   ""
+subtitle:   "its people, its Buddhas and the Mekong"
 active: journal
 author: David
 image:
