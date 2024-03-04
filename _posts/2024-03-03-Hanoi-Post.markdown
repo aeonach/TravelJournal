@@ -51,9 +51,11 @@ gallery1:
 
 <p>After what literally felt like a stroll through northern Thailand and Laos, it was quite a shock arriving in Hanoi. It's not quite like Delhi, but nor is it like Luang Prabang.</p>
 
-<p>Still it is exciting being back in a big city again, especially knowing that you'll be moving on again soon. The sheer intensity of all the exotic sights, the and sounds the food and the people. It's all a kind of hyper reality compared to back home. There's a rawness and intensity that we just don't see in our everyday lives.</p>
+<p>Still it is exciting being back in a big city again, especially knowing that you'll be moving on again soon. The sheer intensity of all the exotic sights, and sounds the food and the people. It's all a kind of hyper reality compared to back home. There's a rawness and intensity that we just don't see in our everyday lives.</p>
 
-<p>What epitomised that more than anything for us was the famous 'Train Street' in Hanoi. It's just nuts!! We were sittin next to a young couple from San Francisco when the train came through. I was photographing it as it approached us and turned around to get it as it receded. I accidentally caught one of our neighbours in the frame, it's pretty blurry but her expression just says it all.</p>
+<p>What epitomised that more than anything for us was the famous 'Train Street' in Hanoi. It's just nuts!! </p>
+
+<p>We were sitting next to a young couple from San Francisco when the train came through. I was photographing it as it approached us and turned around to get it as it receded. I accidentally caught one of our neighbours in the frame, it's pretty blurry but her expression just says it all.</p>
 
 
            <!-- Gallery __-->
