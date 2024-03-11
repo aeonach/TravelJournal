@@ -18,7 +18,9 @@ photocredit:
 
 Here we are at 6am waiting on our bus to take us back to Hanoi and then the overnight train to Hue.
 
-It is still cloudy and misty here in Sa Pa, but just as you'd predict it has cleared enough to show us just a small part of what we missed. We were really unlucky with the weather...
+It is still cloudy and misty here in Sa Pa, but just as you'd predict it has cleared enough to show us just a small part of what we missed. In the three full days we have been here this was never visible.
+
+ We were really unlucky with the weather...then that is the mountains.
 
 
 
