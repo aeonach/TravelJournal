@@ -8,7 +8,7 @@ image:
   feature: "sapaclearing.jpg"
 date:       2024-03-11
 header-img: "img/postcover/sapaclearing.jpg"
-tags: Vietnam,
+tags: Vietnam, Sa Pa
 categories: 
 comments: true
 class: img-lighten 
