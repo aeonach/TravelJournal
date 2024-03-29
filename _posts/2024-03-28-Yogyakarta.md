@@ -31,7 +31,7 @@ img {
   width: 33%
 }
 </style> 
-<img src="img/postbody/vanna.jpg">
+<img src="/img/postbody/vanna.jpg">
 We had two days in Saigon and decided to miss Phnom Phen, which gave us 3 full days in Siem Reap for Angkor and Angkor Wat. We could have easily used five days, but we hired a really good Tuk-Tuk driver. He wasn't one of those people who would tell us what we should do, indeed he started each day by asking us our plans for that day, but he didn't just leave it at that. He knew the places in between that we'd missed and wasn't shy about suggesting side trips to interesting temples. Our three days with Vanna were great and we certainly saw a lot more than we would have by just following our plans. Many thanks Vanna!!
 
 Borobodour, was a very different place from the Borobodour I visited about twenty-five years ago. Most of the conservation work they have done sensitively and I do think the greater control over numbers is, in principal, a good thing, but one hour to explore this wonder of the ancient world just isn't enough. Still, we wouldn't have missed it. I think we may need to come back to Bali and Java to do them both justice.
