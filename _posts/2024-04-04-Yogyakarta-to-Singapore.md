@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Singapore"
+title:      "Yogyakarta to Singapore"
 subtitle:   "an assault on the senses"
 active: journal
 author: David
