@@ -6,7 +6,7 @@ active: journal
 author: David
 image:
   feature: "fiasco.jpg"
-date:       yyyy-mm-dd
+date:       2024-04-08
 header-img: "img/postcover/fiasco.jpg"
 tags: China, Lanzhou
 categories: 
