@@ -1,0 +1,237 @@
+---
+layout: page
+title: "Beijing"
+description: "our first stop in China"
+active: gallery
+header-img: "img/beijing.jpg"
+album-title: "Beijing"
+images:
+ - image_path: /gallery/archive/beijing/beijing-1.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-2.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-3.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-4.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-5.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-6.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-7.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-8.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-9.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-10.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-11.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-12.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-13.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-14.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-15.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-16.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-17.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-18.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-19.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-20.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-21.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-22.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-23.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-24.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-25.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-26.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-27.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-28.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-29.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-30.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-31.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-32.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-33.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-34.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-35.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-36.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-37.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-38.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-39.jpg
+   caption:
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-40.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-41.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-42.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-43.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-44.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-45.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-46.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-47.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-48.jpg
+   caption: 
+   copyright: © Vanessa & David
+ - image_path: /gallery/archive/beijing/beijing-49.jpg
+   caption: 
+   copyright: © Vanessa & David
+
+---
+
+<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+</head>
+
+    <body>
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+	<br><br>
+			<h2>{{page.album-title}}</h2>
+
+
+			<!-- Gallery __-->
+			<div class="gallery masonry-gallery">
+		
+{% for image in page.images %}  		
+
+				<figure class="gallery-item">
+					<header class='gallery-icon'>
+
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+						
+					</header>	
+					<figcaption class='gallery-caption'>
+						<div class="entry-summary">
+							<h3>{{image.caption}}</h3>
+							<p>{{image.copyright}}</p>
+						</div>
+					</figcaption>
+				</figure>
+				
+{% endfor %}
+
+			</div>
+
+		</div><!-- END .wrapper -->
+	</section>
+
+<!-- jQuery -->    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- include image popups -->
+<script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
+<script src="{{ site.baseurl }}/js/retina.min.js"></script>
+<!-- include Masonry -->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<!-- include mousewheel plugins -->
+<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
+<!-- Modernizr -->
+ <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function($) {
+        $('a.popup').magnificPopup({
+          type: 'image',
+	  gallery:{
+         enabled:true,
+         navigateByImgClick: true,
+         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+       },
+      image: {
+         titleSrc: function(item) {
+              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+            }
+        }
+          // other options
+      });
+});
+    </script>
+
+</body></html>
