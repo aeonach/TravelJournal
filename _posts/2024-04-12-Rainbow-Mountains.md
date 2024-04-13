@@ -36,7 +36,7 @@ img {
 }
 </style> 
 <img src="/img/postbody/yurt.jpg">
-Nothing in the description on the internet justified the romanticised notion that we had built in our minds. Nowhere had we been promised a place in the desert, under the stars. Yet this was one of the best rooms we have stayed in on our trip so far. It was off-season and we did have the compound to ourselves. Added to that we were chauffeured around for free and, had I not insisted upon paying, we would have been driven the forty minutes back to the railway station on our day of departure for free too. 
+Nothing in the description on the internet justified the romanticised notion that we had built in our minds. Nowhere had we been promised a place in the desert, under the stars and it was none of those things. Yet this was one of the best rooms we have stayed in on our trip so far. It was off-season and we did have the compound to ourselves. Added to that we were chauffeured around for free and, had I not insisted upon paying, we would have been driven the forty minutes back to the railway station on our day of departure for free too. 
 
 <style>
 img {
