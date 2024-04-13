@@ -46,11 +46,11 @@ img {
 }
 </style> 
 <img src="/img/postbody/danxiacafe.jpg">
-Danxia Geopark. We were in awe of the 'rainbow mountains'. even although our first day was overcast, which is not the best conditions. It  does seem like mist and murk have followed us about everywhere, a bit like in Europe, where every landmark we visit is covered in scaffolding - just for our visit. 
+Danxia Geopark. We were in awe of the 'rainbow mountains', even although our first day was overcast, which is not among the best conditions. It  does seem like mist and murk have followed us about everywhere, a bit like in Europe, where every landmark we visit is covered in scaffolding - just for our visit. 
 
-The second day the sun shone and we saw Danxia! 
+The second day, the sun shone and we saw Danxia! 
 
-To top it all too, just across the street from our yurts there was a wee restaurant with another super friendly host. We ate all our evening meals there and she made Vanessa some fried eggs for breakfast on our last morning
+To top it all off, just across the street from our yurts there was a wee restaurant with another super friendly host. We ate all our evening meals there and she made Vanessa some fried eggs for breakfast on our last morning
 
 Today we are in Dunhuang. Surely you've heard of it! The Mogao grottos? Neither of them? 
 Don't worry, nor had we and unfortunately we cannot share much of our visit with you. We'll spare you the one hundred thousand words that our pictures could have told you. 
