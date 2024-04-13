@@ -16,9 +16,9 @@ opacity: 0.5
 photocredit:
 ---
 
-We never meant to hurry our way through China and we haven't, but three weeks has a habit of rushing itself along. We are in Dunhuang right now, on the edge of the Gobi Desert. This was all part of the re-planning we did whilst we were in India and what a re-plan that was. By the time we board the train for Xi'an the day after tomorrow we will already be just over halfway through our time in China.
+We never meant to hurry our way through China and we haven't, but three weeks has a habit of rushing itself along. We are in Dunhuang right now, on the edge of the Gobi Desert. This was all part of the re-planning we did whilst we were in India and what a re-plan that was. By the time we board the train for Xi'an the day after tomorrow, we will already be just over halfway through our time in China.
 
-Apart from our 'unscheduled' stop in Lanzhou, we have only made two stops. Our first stop was just outside Zhangye, where we visited the Danxia Landform, or 'Rainbow mountains'. I hope that our images do it justice. 
+Apart from our 'unscheduled' stop in Lanzhou, we have only made two stops. Our first was just outside Zhangye, where we visited the Danxia Landform, or 'Rainbow mountains'. I hope that our images do it justice. 
 
 Instead of staying in the city, we chose to stay in a yurt close to the gates of the geopark. The pictures of the yurt looked amazing on 'trip dot com', but our taxi took us into a town that looked as if it was either, in the process of just being built, or just being demolished. After our two days we concluded it was both. 
 
@@ -46,9 +46,14 @@ img {
 }
 </style> 
 <img src="/img/postbody/danxiacafe.jpg">
-Danxia Geopark. We were in awe of the 'rainbow mountains'. Our first day was overcast, not the best conditions. It  does seem like mist and murk have followed us about everywhere. A bit like in Europe, where every landmark we visit is covered in scaffolding - just for our visit. The second day the sun shone and we saw Danxia! To top it all too, just across the street from our yurts there was a wee restaurant with another super friendly host. We ate all our evening meals there and she made Vanessa some fried eggs for breakfast on our last morning
+Danxia Geopark. We were in awe of the 'rainbow mountains'. even although our first day was overcast, which is not the best conditions. It  does seem like mist and murk have followed us about everywhere, a bit like in Europe, where every landmark we visit is covered in scaffolding - just for our visit. 
 
-Today we are in Dunhuang. Surely you've heard of it! The Mogao grottos? Neither? It's okay, nor had we and unfortunately we cannot share much of our visit with you. We'll spare you the one hundred thousand words that our pictures could have told you. 
+The second day the sun shone and we saw Danxia! 
+
+To top it all too, just across the street from our yurts there was a wee restaurant with another super friendly host. We ate all our evening meals there and she made Vanessa some fried eggs for breakfast on our last morning
+
+Today we are in Dunhuang. Surely you've heard of it! The Mogao grottos? Neither of them? 
+Don't worry, nor had we and unfortunately we cannot share much of our visit with you. We'll spare you the one hundred thousand words that our pictures could have told you. 
 
 The first of the caves was carved out in the 4th century and most of them within a century or two of that. These caves are fabulously painted, as had been most of the caves we visited in India. Here, however, it's not just scraps of painted figures hinting at what once was. The walls could have been painted this century, not fifteen centuries ago. The state of preservation here is attributed to the arid climate in this region. Whatever it was that kept this alive for over fifteen centuries - amazing. Unfortunately we were not allowed to take any pictures inside the caves, so all we can show you are the scraps that are left on the outside.
 
