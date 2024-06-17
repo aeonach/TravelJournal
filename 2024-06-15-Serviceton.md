@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Lent"
+subtitle:   "...our forty days in the wilderness"
+active: journal
+author: David
+image:
+  feature: "serviceton.jpg"
+date:       2024-06-15
+header-img: "img/postcover/serviceton.jpg"
+tags: Australia
+categories: 
+comments: true
+class: img-lighten 
+opacity: 0.5
+photocredit:
+---
+
+We are now on the third day of our sojourn through the vast oceanic wilderness of Central Australia. Three days ago we picked up our rental van. Nothing like the tired old, spacious motorhome we'd hired in New Zealand. This time we have a crudely converted delivery van. 
+
+Still, it has everything we need and it's a rather fitting loin-cloth for these forty days in the wilderness.
+
+We planned it all out on our phones and computers. It was calculated at almost twelve thousand kilometers. We hadn't really considered wether it was possible or not, we thought to just set off on it. As our son Murdo happily pointed out: 
+
+"...could just drive nonstop and get it done in 123h."
+
+Put like that it didn't seem so bad and I had done pretty much all of that apart from the Nullarbor on a bicycle, but that was over the space of two years or more and at a time when I had no deadlines to meet. We have hired the van for 43 days and need to meet our young men back in Brisbane a few days after that. We need a plan.
+
+We split it into sections and set ourselves the goal of 500 kilometers a day. That means that we'll only be driving just over half of the days we've set aside for this trip. Although you never have enough time.
+
+We never really expected to do those 500km on our first day, but everything just ran super smoothly. We got to the hire company early and set off in our new van by about 9:30, with the bonus of an Aldi only five minutes away. We were on the road by 10:30 and later that day we passed all three of the rest areas we'd pre-selected as our possible destinations for what we'd anticipated to be a shortened day. We'd probably have even gone a little further, but just around sunset we passed one of the signs that point you in the direction of points of interest, or some historical significance: 'The historic station of Serviceton'. Immediately the voice of Tom Waits came into my head, but it was getting dark and we needed to find somewhere to camp. Luckily a 'Serviceton Rest Area' presented itself within 5km. 
+
+I knew where we would be going in the morning.
+
+
+
+
+
+
+
+
+
+
+
