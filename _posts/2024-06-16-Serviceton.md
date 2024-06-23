@@ -28,8 +28,7 @@ I set off across the rail track remembering the time when even back home as kids
 
 Our old friend turned out to be one of the local community who had undertaken to care for this site of historic interest and had already offered Vanessa to unlock and show us around and so we learned the real story of the station at Serviceton. Really, this station never served Serviston, not in the traditional sense, rather Serviston, the town was there to serve the trains.
 
-Instead of the handfull of homesteads we saw today, Serviceton had grown into a bustling 'town'
-in those days when the separate 'colonies' of Australia operated completely independently with customs at the borders, different rail gauges and crews only allowed to work within their own state.
+Instead of the handfull of homesteads we saw today, Serviceton had grown into a bustling 'town' in those days when the separate 'colonies' of Australia operated completely independently with customs at the borders, different rail gauges and crews only allowed to work within their own state.
 
 We were shown through all the rooms of the station. It's two separate ticket offices where north and southbound passengers had to get off and buy a new ticket for the second half of their journey, but only after they had passed through the respective customs offices. There was a Post Office and a grand refreshments room that served full meals and drinks twenty-four hours a day. They would then board a new train of a different gauge with different guards drivers and ancillary personel to continue that journey between Melbourne and Adelaide.
 
