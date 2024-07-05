@@ -30,9 +30,9 @@ Having googled ‘Barramundi’ it turns out it’s one of the most healthy fish
 
 And so having discovered this wonderful fish we had it:
 
-Grilled at Jabiru
-Battered at Lizard Creek
-In a pie at Doon Doon road house
+Grilled at Jabiru\
+Battered at Lizard Creek\
+In a pie at Doon Doon road house\
 And fried it ourselves at Cooinda campsite
 
 We’re pausing for now, but will return later to our new healthy and delicious fishy gastronomic discovery, which also goes nicely with a chilled Pinot Noir!
