@@ -6,7 +6,7 @@ active: journal
 author: 
 image:
   feature: "altitude.jpg"
-date:       2024-10-01
+date:       2024-09-01
 header-img: "img/postcover/altitude.jpg"
 tags: Peru, Cusco
 categories: 
