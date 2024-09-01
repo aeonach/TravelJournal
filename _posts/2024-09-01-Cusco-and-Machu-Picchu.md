@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Fourth Day"
-subtitle:   "...in Cusco at ten thousand feet"
+title:      "Fourth Day in Cusco"
+subtitle:   "...at ten thousand feet"
 active: journal
 author: 
 image:
