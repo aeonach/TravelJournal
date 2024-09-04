@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Leaving Cusco"
-subtitle:   "...and heading for Mchu Picchu"
+subtitle:   "...and heading for Machu Picchu"
 active: journal
 author: David
 image:
