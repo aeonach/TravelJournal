@@ -32,19 +32,10 @@ Before Machu Picchu, this small triangle of land measuring around 0.14 km² was 
 img {
   float: right;
   margin: 0px 0px 15px 20px;
+  width: 50%
 }
- figcaption {
-         font-family: Arial, sans-serif;
-         font-size: 11px;
-         font-weight: bold;
-         color: dark-grey;
-         margin-top: 10px
-         padding: 5px;
-      }
-</style>
-<figure> 
+</style> 
 <img src="/img/postbody/aguas.jpg">
-</figure>
 The town itself has the feel and look of an old goldrush town. Ramshackle buildings try to outreach each of their neighbours as the whole town cascades steeply down the short 700m of the Urubamba River that it hugs. Even so, they have still managed so squeeze a full sized football park into this area. 
 
 Most people either only stay for one day, or just pass through on their way to Machu Picchu and back. It is perfectly feasible to do it as a day trip from Cusco. We had decided to stay for thee days. Charmless as the town is, we had a pleasant stay and beautiful walk up the Rio Aguas Calientes to the Cataratas de Aguas Calientes. A thousand butterflies hung and fluttered in the air.
