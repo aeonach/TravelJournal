@@ -28,7 +28,7 @@ With our young band still dancing, booming and waving, we set off along the Sacr
 
 After a meal of an excellent Ceviche and a good nights sleep at last, our 'essential' guide (part of our 'inclusive' package) picked us up at 6.30am at our hotel and 'escorted' us to the Inca Rail Machu Picchu bus stop.  We soon realised why our guide met us so early (we were booked for 8am) turning the corner a snake-like queue wound its way almost back to where we had just come from (visions of Pompeii crowds came to mind).
 
-As the bus wound its way along the Inca trail my dream list was becoming a reality, in spite of the crowds nothing was going to spoil it.
+As the bus zigged and zagged its way up this part of the Inca trail, my dream list was becoming a reality, in spite of the crowds nothing was going to spoil it.
 
 
 
