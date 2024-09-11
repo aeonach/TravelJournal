@@ -8,8 +8,8 @@ image:
   feature: "lanzhou.jpg"
 date:     2024-04-08
 header-img: "img/postcover/lanzhou.jpg"
-tags: Lanzhou, China
-categories: 
+tags: 
+categories: China
 comments: true
 class: img-lighten 
 opacity: 0.5

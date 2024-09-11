@@ -8,8 +8,8 @@ image:
   feature: "gobi.jpg"
 date:       2024-04-12
 header-img: "img/postcover/gobi.jpg"
-tags: China, Ganzu
-categories: 
+tags: 
+categories: China
 comments: true
 class: img-lighten 
 opacity: 0.5

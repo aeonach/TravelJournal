@@ -8,8 +8,8 @@ image:
   feature: "fiasco.jpg"
 date:       2024-04-08
 header-img: "img/postcover/fiasco.jpg"
-tags: China, Lanzhou
-categories: 
+tags: 
+categories: China
 comments: true
 class: img-lighten 
 opacity: 0.5

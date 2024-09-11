@@ -8,8 +8,8 @@ image:
   feature: "vanessanz.jpg"
 date:       2024-06-10
 header-img: "img/postcover/vanessanz.jpg"
-tags: New Zealand
-categories: 
+tags: 
+categories: New Zealand
 comments: true
 class: img-lighten 
 opacity: 0.5

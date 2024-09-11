@@ -9,7 +9,7 @@ image:
 date:       2024-07-04
 header-img: "img/postcover/baramundi.jpg"
 tags: 
-categories: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

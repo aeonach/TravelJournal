@@ -8,8 +8,8 @@ image:
   feature: "vanessajapan.jpg"
 date:       2024-05-13
 header-img: "img/postcover/vanessajapan.jpg"
-tags: Japan
-categories: 
+tags: 
+categories: Japan
 comments: true
 class: img-lighten 
 opacity: 0.5

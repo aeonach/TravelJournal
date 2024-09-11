@@ -8,8 +8,8 @@ image:
   feature: "wonder.jpg"
 date:       2024-06-10
 header-img: "img/postcover/wonder.jpg"
-tags: Australia
-categories: 
+tags: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

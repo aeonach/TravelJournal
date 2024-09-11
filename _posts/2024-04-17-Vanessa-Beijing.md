@@ -8,8 +8,8 @@ image:
   feature: "vanessabeijing.jpg"
 date:       2024-04-17
 header-img: "img/postcover/vanessabeijing.jpg"
-tags: China, Beijing
-categories: 
+tags: 
+categories: China
 comments: true
 class: img-lighten 
 opacity: 0.5

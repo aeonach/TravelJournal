@@ -8,8 +8,8 @@ image:
   feature: "singapore.jpg"
 date:       2024-04-04
 header-img: "img/postcover/singapore.jpg"
-tags: Singapore
-categories: 
+tags: 
+categories: Singapore
 comments: true
 class: img-lighten 
 opacity: 0.5

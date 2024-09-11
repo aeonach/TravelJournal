@@ -9,7 +9,7 @@ image:
 date:       2024-06-20
 header-img: "img/postcover/pimba.jpg"
 tags: 
-categories: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

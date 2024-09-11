@@ -8,8 +8,8 @@ image:
   feature: "aguacalientes.jpg"
 date:       2024-09-04
 header-img: "img/postcover/aguacalientes.jpg"
-tags: Peru 
-categories: 
+tags: 
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

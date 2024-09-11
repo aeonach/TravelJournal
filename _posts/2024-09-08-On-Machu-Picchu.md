@@ -8,8 +8,8 @@ image:
   feature: "citadel.jpg"
 date:       2024-09-08
 header-img: "img/postcover/citadel.jpg"
-tags: Peru
-categories: 
+tags: 
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

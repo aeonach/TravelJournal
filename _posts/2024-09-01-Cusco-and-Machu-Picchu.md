@@ -8,8 +8,8 @@ image:
   feature: "altitude.jpg"
 date:       2024-09-01
 header-img: "img/postcover/altitude.jpg"
-tags: Peru, Cusco
-categories: 
+tags: 
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

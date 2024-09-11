@@ -8,8 +8,8 @@ image:
   feature: "ceviche.jpg"
 date:       2024-08-28
 header-img: "img/postcover/ceviche.jpg"
-tags: Chile
-categories: 
+tags: 
+categories: Chile
 comments: true
 class: img-lighten 
 opacity: 0.5

@@ -8,8 +8,8 @@ image:
   feature: "machupicchu.jpg"
 date:       2024-09-03
 header-img: "img/postcover/machupicchu.jpg"
-tags: Peru 
-categories: 
+tags: 
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

@@ -8,8 +8,8 @@ image:
   feature: "valparaiso.jpg"
 date:       2024-08-26
 header-img: "img/postcover/valparaiso.jpg"
-tags: Chile, Valparaiso
-categories: 
+tags: 
+categories: Chile
 comments: true
 class: img-lighten 
 opacity: 0.5

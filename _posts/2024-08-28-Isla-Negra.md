@@ -8,8 +8,8 @@ image:
   feature: "islanegra.jpg"
 date:       2024-08-28
 header-img: "img/postcover/islanegra.jpg"
-tags: Chile, Isla Negra
-categories: 
+tags: 
+categories: Chile
 comments: true
 class: img-lighten 
 opacity: 0.5

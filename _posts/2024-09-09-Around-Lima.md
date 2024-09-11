@@ -8,8 +8,8 @@ image:
   feature: "lima.jpg"
 date:       2024-09-09
 header-img: "img/postcover/lima.jpg"
-tags: Peru
-categories: 
+tags: 
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

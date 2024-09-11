@@ -8,8 +8,8 @@ image:
   feature: "leavingaustralia.jpg"
 date:       2024-08-15
 header-img: "img/postcover/leavingaustralia.jpg"
-tags: Australia
-categories: 
+tags: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

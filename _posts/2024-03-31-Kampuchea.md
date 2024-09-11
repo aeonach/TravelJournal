@@ -9,7 +9,7 @@ image:
 date:       2024-03-31
 header-img: "img/postcover/kampuchea.jpg"
 tags: 
-categories: 
+categories: Cambodia
 comments: true
 class: img-lighten 
 opacity: 0.5

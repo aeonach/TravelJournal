@@ -8,8 +8,8 @@ image:
   feature: "serviceton.jpg"
 date:       2024-06-18
 header-img: "img/postcover/serviceton.jpg"
-tags: Australia
-categories: 
+tags: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

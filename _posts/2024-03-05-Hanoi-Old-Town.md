@@ -9,7 +9,7 @@ image:
 date:       2024-03-05
 header-img: "img/postcover/vanessahanoipost.jpg"
 tags: 
-categories: 
+categories: Vietnam
 comments: true
 class: img-lighten 
 opacity: 0.5

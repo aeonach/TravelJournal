@@ -8,8 +8,8 @@ image:
   feature: "uluru.jpg"
 date:       2024-07-20
 header-img: "img/postcover/uluru.jpg"
-tags: Australia
-categories: 
+tags: 
+categories: Australia
 comments: true
 class: img-lighten 
 opacity: 0.5

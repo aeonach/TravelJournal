@@ -8,8 +8,8 @@ image:
   feature: "yogya.jpg"
 date:       2024-03-29
 header-img: "img/postcover/yogya.jpg"
-tags: Indonesia
-categories: 
+tags: 
+categories: Indonesia
 comments: true
 class: img-lighten 
 opacity: 0.5

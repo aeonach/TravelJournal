@@ -8,8 +8,8 @@ image:
   feature: "vanessamachu.jpg"
 date:       2024-09-07
 header-img: "img/postcover/vanessamachu.jpg"
-tags: Peru, Machu Picchu
-categories: 
+tags:
+categories: Peru
 comments: true
 class: img-lighten 
 opacity: 0.5

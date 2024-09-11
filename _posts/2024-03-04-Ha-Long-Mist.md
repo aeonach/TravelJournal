@@ -8,8 +8,8 @@ image:
   feature: "halongmist.jpg"
 date:       2024-03-04
 header-img: "img/postcover/halongmist.jpg"
-tags: Vietnam
-categories: 
+tags: 
+categories: Vietnam
 comments: true
 class: img-lighten 
 opacity: 0.5
