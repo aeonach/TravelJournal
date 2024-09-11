@@ -8,8 +8,8 @@ image:
   feature: "buses.jpg"
 date:       2024-01-09
 header-img: "img/postcover/buses.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

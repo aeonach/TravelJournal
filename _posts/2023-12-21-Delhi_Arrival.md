@@ -9,7 +9,7 @@ image:
 date:       2023-12-21 
 header-img: "img/postcover/vanessa-1.jpg"
 tags: 
-categories: India Dehli
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

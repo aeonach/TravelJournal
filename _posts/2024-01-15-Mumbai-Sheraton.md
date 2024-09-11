@@ -8,8 +8,8 @@ image:
   feature: "mumbaisheraton.jpg"
 date:       2024-01-15
 header-img: "img/postcover/mumbaisheraton.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

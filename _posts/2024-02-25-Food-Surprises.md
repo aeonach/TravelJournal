@@ -8,8 +8,8 @@ image:
   feature: "vanessafood2.jpg"
 date:       2024-02-25
 header-img: "img/postcover/vanessafood2.jpg"
-tags: Laos
-categories: 
+tags: 
+categories: Laos 
 comments: true
 class: img-lighten 
 opacity: 0.5

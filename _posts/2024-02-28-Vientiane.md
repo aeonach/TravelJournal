@@ -8,8 +8,8 @@ image:
   feature: "mekongsunset.jpg"
 date:       2024-02-28
 header-img: "img/postcover/mekongsunset.jpg"
-tags: Laos
-categories: 
+tags: 
+categories: Laos
 comments: true
 class: img-lighten 
 opacity: 0.5

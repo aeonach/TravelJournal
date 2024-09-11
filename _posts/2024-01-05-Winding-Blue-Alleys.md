@@ -8,7 +8,7 @@ image:
   feature: "jodhpur.jpg"
 date:       2024-01-05
 header-img: "img/postcover/jodhpur.jpg"
-tags: India, Jodhpur
+tags: 
 categories: India
 comments: true
 class: img-lighten 

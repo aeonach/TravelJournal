@@ -8,8 +8,8 @@ image:
   feature: "jaisalmer.jpg"
 date:       2024-01-07
 header-img: "img/postcover/jaisalmer.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

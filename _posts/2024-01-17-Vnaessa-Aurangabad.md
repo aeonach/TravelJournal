@@ -8,8 +8,8 @@ image:
   feature: "aurangabvanessa.jpg"
 date:       2024-01-17
 header-img: "img/postcover/aurangabvanessa.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

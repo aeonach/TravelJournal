@@ -8,8 +8,8 @@ image:
   feature: "welcomemumbai.jpg"
 date:       2024-01-11
 header-img: "img/postcover/welcomemumbai.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

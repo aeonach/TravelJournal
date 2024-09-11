@@ -9,7 +9,7 @@ image:
 date:       2024-01-11
 header-img: "img/postcover/vanessaahmedabad.jpg"
 tags: 
-categories: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

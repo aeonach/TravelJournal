@@ -8,8 +8,8 @@ image:
   feature: "jodhpurfortpano.jpg"
 date:       2023-12-27 
 header-img: "img/postcover/jodhpurfortpano.jpg"
-tags: India 
-categories: 
+tags: 
+categories: India 
 comments: true
 class: img-lighten 
 opacity: 0.5

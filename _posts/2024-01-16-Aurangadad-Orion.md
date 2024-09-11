@@ -8,8 +8,8 @@ image:
   feature: "aurangabadorion.jpg"
 date:       2024-01-16
 header-img: "img/postcover/aurangabadorion.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

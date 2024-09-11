@@ -8,8 +8,8 @@ image:
   feature: "vanessafood.jpg"
 date:       2024-02-03
 header-img: "img/postcover/vanessafood.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

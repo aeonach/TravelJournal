@@ -8,8 +8,8 @@ image:
   feature: "baharat.jpg"
 date:       2023-12-19 
 header-img: "img/postcover/baharat-2.jpg"
-tags: India Delhi
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

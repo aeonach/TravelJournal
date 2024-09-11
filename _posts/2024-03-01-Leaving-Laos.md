@@ -8,8 +8,8 @@ image:
   feature: "leavinglaos.jpg"
 date:       2024-03-01
 header-img: "img/postcover/leavinglaos.jpg"
-tags: Laos
-categories: 
+tags: 
+categories: Laos
 comments: true
 class: img-lighten 
 opacity: 0.5

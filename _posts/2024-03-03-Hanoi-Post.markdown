@@ -8,8 +8,8 @@ image:
   feature: "hanoitraffic.jpg"
 date:       2024-03-03
 header-img: "img/postcover/hanoitraffic.jpg"
-tags: Vietnam
-categories: 
+tags: 
+categories: Vietnam
 comments: true
 class: img-lighten 
 opacity: 0.5

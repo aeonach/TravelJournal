@@ -8,8 +8,8 @@ image:
   feature: "punesunset.jpg"
 date:       2024-01-21
 header-img: "img/postcover/punesunset.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

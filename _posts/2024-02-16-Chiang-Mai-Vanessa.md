@@ -8,8 +8,8 @@ image:
   feature: "chiangmaivanessa.jpg"
 date:       2024-02-16
 header-img: "img/postcover/chiangmaivanessa.jpg"
-tags: Thailand
-categories: 
+tags: 
+categories: Thailand
 comments: true
 class: img-lighten 
 opacity: 0.5

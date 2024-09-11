@@ -8,8 +8,8 @@ image:
   feature: "goa.jpg"
 date:       2024-02-01
 header-img: "img/postcover/goa.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

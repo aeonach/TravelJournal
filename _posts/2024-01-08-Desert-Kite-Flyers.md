@@ -8,8 +8,8 @@ image:
   feature: "vanessadesert.jpg"
 date:       2024-01-07
 header-img: "img/postcover/vanessadesert.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

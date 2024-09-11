@@ -8,8 +8,8 @@ image:
   feature: "trainchiangmai.jpg"
 date:       2024-02-12
 header-img: "img/postcover/trainchiangmai.jpg"
-tags: Thailand, Chang Mai
-categories: 
+tags: 
+categories: Thailand
 comments: true
 class: img-lighten 
 opacity: 0.5

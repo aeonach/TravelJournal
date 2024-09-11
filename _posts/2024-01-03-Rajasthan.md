@@ -8,8 +8,8 @@ image:
   feature: "rajasthan.jpg"
 date:       2024-01-03 
 header-img: "img/postcover/rajasthan.jpg"
-tags: India Rajasthan
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

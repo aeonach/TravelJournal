@@ -8,8 +8,8 @@ image:
   feature: "vanessapost2.jpg"
 date:       2023-12-28 
 header-img: "img/postcover/vanessapost2.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5

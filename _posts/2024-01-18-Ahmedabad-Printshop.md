@@ -8,8 +8,8 @@ image:
   feature: "ahmedabadprint.jpg"
 date:       2024-01-18
 header-img: "img/postcover/ahmedabadprint.jpg"
-tags: India
-categories: 
+tags: 
+categories: India
 comments: true
 class: img-lighten 
 opacity: 0.5
