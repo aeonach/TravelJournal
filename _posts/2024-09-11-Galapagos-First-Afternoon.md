@@ -95,13 +95,7 @@ Santa Cruz'. It is an ugly island, not helped by the remnants of the US airbase 
 
 <!-- end of GALLERY __ -->
 
-<p> Add as many galleries as you want, including as many photos as you want. Simply edit the <b>FRONT MATTER</b> of the post, adding the corresponding <b>path</b>, <b>caption</b> and <b>copyright</b> info for each one of your photos. </p>
 
-           <!-- Gallery __-->
-			
-{% include subgallery.html id="gallery2" %}
-
-<!-- end of GALLERY __ -->
 
 		</div><!-- end of WRAPPER __ -->
 	</section>
