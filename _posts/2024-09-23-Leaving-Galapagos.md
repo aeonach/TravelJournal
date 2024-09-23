@@ -6,7 +6,7 @@ active: journal
 author: 
 image:
   feature: "leavinggalapagos.jpg"
-date:       2024-09-24
+date:       2024-09-23
 header-img: "img/postcover/leavinggalapagos.jpg"
 tags: 
 categories: Galapagos 
