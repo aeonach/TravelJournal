@@ -3,7 +3,7 @@ layout:     post
 title:      "Leaving the Galapagos"
 subtitle:   "...islands on the edge."
 active: journal
-author: 
+author: David
 image:
   feature: "leavinggalapagos.jpg"
 date:       2024-09-23
