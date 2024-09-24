@@ -30,7 +30,7 @@ img {
 }
 </style> 
 <img src="/img/postbody/thepier.jpg">
-I also must mention our last day where we dined on fresh Galapagos lobster (crayfish really) at The Pier Restaurant & Cevicheria at the northern end of Puerto Baquerizo Moreno. We had lunched there a couple of times before and the family who ran it treated us like friends, no, like film stars - I was Tom Cruz for the day! It was a great place to enjoy that wonderful last meal, and they are some of the new friends we have met on our journey.
+I also must mention our last day where we dined on fresh Galapagos lobster (crayfish really) at The Pier Restaurant & Cevicheria at the northern end of Puerto Baquerizo Moreno. We had lunched there a couple of times before and the family who ran it treated us like friends, no, like film stars - I was Tom Cruz for the day (believe that if you like!!). It was a great place to enjoy that wonderful last meal, and they are some of the new friends we have met on our journey.
 
 
 
