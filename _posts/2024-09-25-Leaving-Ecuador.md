@@ -16,7 +16,7 @@ opacity: 0.5
 photocredit:
 ---
 
-#####Full Disclosure!#####
+##### Full Disclosure! #####
 
 When we first planned this whole trip in the summer of last year in front of our cosy log burner in cosy Dumfries, one of our dreams was to visit The Galapagos Archipelago, or really just - The Galapagos. We knew exactly where this wonderful archipelago was - in the Pacific Ocean, about 1000 km from the coast of South America. Although what we didn't know  until we researched it is that they are a part of Ecuador. So like it or not we were going to Ecuador, so we set out to find out about Ecuador.
 
