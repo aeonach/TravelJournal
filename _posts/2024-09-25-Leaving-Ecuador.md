@@ -5,9 +5,9 @@ subtitle:   "...an opportunity missed."
 active: journal
 author: David
 image:
-  feature: "leavingecaudor.jpg"
+  feature: "leavingecuador.jpg"
 date:       2024-09-24
-header-img: "img/postcover/leavingecaudor.jpg"
+header-img: "img/postcover/leavingecuador.jpg"
 tags: 
 categories: Ecuador
 comments: true
@@ -22,7 +22,7 @@ When we first planned this whole trip in the summer of last year in front of our
 
 Our friends Google and the Home Office didn't seem to have a lot that was good to say about our new destination. Stories about the Columbian drug gangs moving in and high levels of organised crime, kidnappings...well, you get the gist. We had fallen in love with the idea of the Galapagos, even if our new research had me calling it the 'Gulag Archipelago'. We thought that surely the islands weren't in the hands of the drug cartels. So we booked our flights anyway and arranged one night in Guayaquil, the biggest city in Ecuador and a major port. The only city directly connecting the islands to the mainland.
 
-Guayaquil had figured prominently in the bad news stories along with areas around the northern border with Columbia. We booked another single night in Guayaquil at the end too, but that was as far as we got. We couldn't find a flight out of Guayaquil that didn't involve going back to Peru, so we just left it for sometime in the future. As it turned out it was a good thing that we had since it allowed us to make our new plans for Costa Rica whenthey came along.
+Guayaquil had figured prominently in the bad news stories along with areas around the northern border with Columbia. We booked another single night in Guayaquil at the end too, but that was as far as we got. We couldn't find a flight out of Guayaquil that didn't involve going back to Peru, so we just left it for sometime in the future. As it turned out it was a good thing that we had since it allowed us to make our new plans for Costa Rica when they came along.
 
 Guayaquil was a shock to us.
 
