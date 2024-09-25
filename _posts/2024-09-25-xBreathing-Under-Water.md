@@ -9,7 +9,7 @@ image:
 date:       2024-09-25
 header-img: "img/postcover/flutter.jpg"
 tags: 
-categories: 
+categories: Ecuador
 comments: true
 class: img-lighten 
 opacity: 0.5
