@@ -3,7 +3,7 @@ layout:     post
 title:      "Virginia to Memphis"
 subtitle:   "...all the colours of Autumn."
 active: journal
-author: 
+author: David
 image:
   feature: "virginiatomemphis.jpg"
 date:       2024-10-28
