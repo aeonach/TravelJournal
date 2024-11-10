@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Amarillo"
-subtitle:   "...via Marfa and elsewhere, who would have thunk!"
+subtitle:   "...via Marfa and elsewhere - who would have thunk!"
 active: journal
 author: David
 image:
@@ -22,7 +22,7 @@ We where avidly trying to follow Route 66 when we decided to 'hang a left' and e
 
 No, it's not a misspelling, we were in Texas' deep south where we found ourselves in a converted shipping container for three nights. It was an act of madness.
 
-Madcap as it was taking four days to explore Texas, never on the itinerary, we did take it easy and stopped off in Midland. We'd occasionally taken to having microwaved baked potatoes in our Motel room (we don't even have a microwave at home!), not so much to save money, rather, it was actually tastier than some of the fast food options we were forced to try. Then again, why would you ever make a trip like this and eat in your room every night? We had a magnificent time in a 'Waffle Place' in Maumelle where we met and had laugh with some of the most genuine restaurant staff we've ever met.
+Madcap as it was taking four days to explore Texas, never on the itinerary, we did take it easy and stopped off in Midland. We'd occasionally taken to having microwaved baked potatoes in our Motel room (we don't even have a microwave at home!), not so much to save money, rather, it was actually tastier than some of the fast food options we were forced to try. Then again, why would you ever make a trip like this and eat in your room every night? We had a magnificent time in a 'Waffle Place' in Maumelle where we met and had a laugh with some of the most genuine restaurant staff we've ever met.
 
 Now we'd got to Midland we decided on something a bit more 'upmarket'. The rather elegant sounding 'Cork and Pig Tavern' popped up.
 
@@ -44,7 +44,7 @@ Marfa itself is one of those strange places that just seem to pop up (in this ca
 
 If we'd known that before, we would have probably avoided the place.
 
-As a result of the whole 'Instagram Influencers' thing, we didn't actually see anything that Marfa had to offer. Although we did stay in a rather funky converted container and ate in a pretty cool restaurant that served us - wait for it - another of the thickest steaks we'd ever seen on a plate - this time a tenderloin. 
+As a result of the whole 'Instagram Influencers' thing, we didn't actually see anything that Marfa had to offer, apart from  0ourrather funky converted container and the fact that we ate in a pretty cool restaurant that served us - wait for it - another of the thickest steaks we'd ever seen on a plate - this time a tenderloin. 
 
 We really were in Texas.
 
@@ -54,9 +54,9 @@ As for the FM 170 day trip, we are glad to advise that we didn't happen upon any
 
 Seminole?
 
- Well, if you've been following us you will already know that we are fans of anything ancient, Seminole did not disappoint. We do know, as our friend Carol pointed out, it's always the same rockart that you see from Europe to Australia, the Drakensberg, and every stone age settlement in the world that decided to write on a wall.
+ Well, if you've been following us you will already know that we are fans of anything ancient, Seminole did not disappoint. We do know, as our friend Carol pointed out, it's almost the same rockart that you see from Europe to Australia, the Drakensberg, and every stone age settlement in the world that decided to write on a wall.
 
-Spacemen or isn't that fascinating?
+Spacemen, or isn't that fascinating?
 
 
 
