@@ -30,11 +30,11 @@ It was here we met some real Texans and not just the kind that were serving us.
 
 My first encounter was when I was on my way to the 'restroom'. A tall Texan asked me if Gerry Garcia knew that I'd stolen his hair (Garcia has come up more than once on this trip and it never offends). That led to an animated conversation about our trip and Scotland.
 
-His only question he had was:
+His only question was:
 
 "How did you end up here, in the middle of Texas?"
 
-But he wasn't the only one. We were amazed by how open and friendly Texans are. We had just thought of them as the epitome of gun-toting red-neck Americans, but our beliefs were not confirmed by evidence. Again, another two other couples took the time to stop and talk to us and amaze that we'd visited Texas.
+But he wasn't the only one. We were amazed by how open and friendly Texans are. We had just thought of them as the epitome of gun-toting red-neck Americans, but our beliefs were not confirmed by evidence. Again, two other couples took the time to stop and talk to us and amaze that we'd visited Texas.
 
 Any fear we had of being in Texas disappeared.
 
@@ -44,7 +44,7 @@ Marfa itself is one of those strange places that just seem to pop up (in this ca
 
 If we'd known that before, we would have probably avoided the place.
 
-As a result of the whole 'Instagram Influencers' thing, we didn't actually see anything that Marfa had to offer, apart from  0ourrather funky converted container and the fact that we ate in a pretty cool restaurant that served us - wait for it - another of the thickest steaks we'd ever seen on a plate - this time a tenderloin. 
+As a result of the whole 'Instagram Influencers' thing, we didn't actually see anything that Marfa had to offer, apart from  our rather funky converted container and the fact that we ate in a pretty cool restaurant that served us - wait for it - another of the thickest steaks we'd ever seen on a plate - this time a tenderloin. 
 
 We really were in Texas.
 
@@ -56,7 +56,7 @@ Seminole?
 
  Well, if you've been following us you will already know that we are fans of anything ancient, Seminole did not disappoint. We do know, as our friend Carol pointed out, it's almost the same rockart that you see from Europe to Australia, the Drakensberg, and every stone age settlement in the world that decided to write on a wall.
 
-Spacemen, or isn't that fascinating?
+Spacemen? Or isn't that just fascinating?
 
 
 
