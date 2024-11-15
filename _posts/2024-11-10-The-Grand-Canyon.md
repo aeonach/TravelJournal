@@ -34,7 +34,7 @@ With each turn and switchback we and no pictographs:
 
 'The next one.'
 
-But no, we eventually we turned back as we hadn't intended to go this far.
+But no, we eventually we turned back, as we hadn't intended to go this far.
  
 Still, it wasn't finished. As we had arranged to stay much closer to the park than Flagstaff, we could stay on until after sunset and enjoyed a brilliant astronomy session laid on by the park. It was great under those dark skys, even with the moon in it's first quarter.
 

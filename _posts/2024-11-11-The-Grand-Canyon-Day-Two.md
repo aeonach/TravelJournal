@@ -26,7 +26,9 @@ That was it - Eastbound would be after another visit to The Bright Angel Trail.
 
 We got up early and headed straight to Bright Angel trailhead and probably not ten minutes later, just after the first tunnel, we looked up and there they were. They were no 'Lascaux', but for us they allowed us to relish the thought that we were walking a trail that had been used for the last 4,000 years.
 
-I don't know why it is that I remembered them at head height and now I needed a 400mm telephoto lens to see them. All of the path there looked very new, but no amount of googling could bring up a reason. Maybe those Youtubers were right and this was another forbidden thing in the Grand Canyon. I'll walk up and down the Bright Angel trail every day, before I ever go down that rabbit-hole.
+I don't know why it is that I remembered them at head height and now I needed a 400mm telephoto lens to see them. All of the path there looked very new, but no amount of googling could bring up a reason. Maybe those Youtubers were right and this was another forbidden thing in the Grand Canyon. 
+
+I'll walk up and down the Bright Angel trail every day, before I ever go down that rabbit-hole.
 
 We carried on along the South Rim Eastbound and even visited the Little Colorado River Canyon and know what? 
 
