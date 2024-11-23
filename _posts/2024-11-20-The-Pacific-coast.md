@@ -18,19 +18,17 @@ photocredit:
 
 I know, I know - its been over a week, but we were chasing our tails and even drove in the dark. Our wee trip to Phoenix was a visit to the apple store to get Vanessa a new phone and then we hooted up the highway to Barstow, our jumping off point for the Mojave Desert.
 
-Originally we had thought we could combine the Mojave and Death Valley, but we couldn't. Finding a place to stay was part of it, so ended up back in Barstow. We changed Motels on the second night, just to make ourselves think we were still moving in a forward direction. After Death Valley, however, we did manage to keep our forward momentum going for The Sequoia National Park and Yosemite. 
+Originally we had thought we could combine the Mojave and Death Valley, but we couldn't. Finding a place to stay was part of it, so we ended up back in Barstow. We did change Motels on the second night, just to make ourselves think we were still moving in a forward direction. After Death Valley, however, we managed to keep our illusion of forward momentum going for The Sequoia National Park and Yosemite. 
 
-In both Sequoia and Yosemite we were awestruck. All of our cathedrals, temples and every other human edifice, ancient or modern, religious or pagan, pale in comparison to the works of nature. 
+In both Sequoia and Yosemite we were awestruck. All of our cathedrals, temples and every other human edifice, ancient or modern, religious or pagan, pale in comparison to the works of nature. We did, of course, manage to decimate the sequoias, but the granduer of granite that is Yosemite still stands.
 
-Again, whenever we get to post them, our photos won't begin to truly convey what we have seen.
+Again, whenever we get to post them, our photos won't begin to truly convey what we have seen, let alone how it made us feel.
 
-Oh yes! Look what we came across in its new home in the Arizona Desert. London Bridge. It's one of the biggest tourist attractions in Arizona, second only to the Grand Canyon. 
+Oh yes! On a lighter note - look what we came across in its new home in the Arizona Desert. London Bridge. Unbelievably, it's one of the biggest tourist attractions in Arizona, second only to the Grand Canyon. 
 
-In amongst all of that, we did suffer some more carnal moments.
+In amongst all of that, we did suffer some more carnal moments. In the Mojave we took the short offroad section that takes you to the Kelso Dunes. We heard a weird noise, but rutted roads are weirdly noisy. A mile later we pulled up and there was another noise. We'd heard something like it before, that kind of hiss that you hear under pylons. Yep there were pylons. At the boot I realised that this hiss was much closer than the pylons. It was one of our tyres. I didn't have to do much searching as it was easy to spot - we'd picked up a set of keys!
 
-In the Mojave we took the short offroad section that takes you to the Kelso Dunes. We did hear a weird noise, but rutted roads are weirdly noisy. A mile later we pulled up and there was another noise. We'd heard something like it before, that kind of hiss that you hear under pylons. Yep there were pylons. At the boot I realised that this hiss was much closer than the pylons. Yes, that was one of our tyres. It was easy to spot - we'd picked up a set of keys!
-
-It's quite a thing with the hire companies: they may well rent you an AWD vehicle, but that doesn't include any permission to use it anywhere you might need it. We had opted for the RSA+ (Roadside Assistance, not sure what the '+' means), but we weren't at the roadside. So, all our cases out and  on with the 'get you home' tyre. Sorry, that's tire here and 'tire'-some it was.
+It's quite a thing with the hire companies: they may well rent you an AWD vehicle, but that doesn't include any permission to use it anywhere you might need it. Offroad is out of bounds. We had opted for the RSA+ (Roadside Assistance, not sure what the '+' means), but we weren't at the roadside. So, all our cases out and  on with the 'get you home' tyre. Sorry, that's tire here and 'tire'-some it was.
 
 Anyway, we got back to our Motel and phoned the hire company. I cannot even begin to explain our exchange, but when we finally got to the point where she realised that we didn't need rescued, but just needed a puncture repaired, she said we had to go to an Enterprise place in town and they would give us a new car.
 
