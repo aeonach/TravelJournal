@@ -30,11 +30,11 @@ We spent most of that day ignoring the advice from our Google:
 
 We stopped for lunch in Vista Point and tried again with Google, we chose Fort Bragg. If the estimate was right we'd get there at sometime around 6pm, so we booked our room in advance.
 
-very soon after that we finally reached Timber Gulch and the section that was seemingly impassible. There had been no road signs asking us to turn around. Surely there would have been? We persisted. 
+Very soon after that, we finally reached Timber Gulch and the section that was seemingly impassible. There had been no road signs asking us to turn around. Surely there would have been? We persisted. 
 
 As did Google: it did let us see our dot on the map traverse along the red 'dangerous' section of road it had marked out, but it refused to follow. We were on our own.
 
-As we made our way along this 'forbidden' section of highway, it was obvious that at the height of the storm it probably was inundated and also probably would have been impassible. Earlier in the day we had passed vineyards where whole sections were completely submerged, which we roughly calculated meant about 4-5 foot of water. If we had found this section of road in that condition we would have turned around. When we set out, we didn't set out to risk driving through a flooded road. Our biggest risk was having to ignominiously admit that Google was right.
+As we made our way along this 'forbidden' section of highway, it was obvious that at the height of the storm it probably was inundated, and also probably would have been impassible. Earlier in the day we had passed vineyards where whole sections were completely submerged, which we roughly calculated meant about 4-5 foot of water. If we had found this section of road in that condition we would have turned around. When we set out, we didn't set out to risk driving through a flooded road. Our biggest risk was having to ignominiously admit that Google was right.
 
 We got to the end of that section and google dutifully laid out a new blue route in advance of us. From the original estimate of getting to Fort Bragg somewhere around 6:30, our 'new' route brought us there about three hours earlier. We were perfectly happy to stop at 3:30, even although we could probably have made it to Eureka.
 
