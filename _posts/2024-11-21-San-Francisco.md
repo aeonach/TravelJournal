@@ -26,9 +26,9 @@ We left the airport in Monterey with a feeling that this hiccup was, after all, 
 
 We looked for places this side of San Francisco and places the other side of San Francisco. It wasn't just that nothing right seemed to turn up - we suddenly wondered:
 
-'Why not San Francisco?'
+'Why not San Francisco?' San Francisco it was, but now we now had to find somewhere to stay. 
 
-San Francisco? Now we now had to find somewhere to stay. It was a bugger to find, but we eventually did find a place in the middle of Chinatown with parking and everything - perfect! We booked it for two nights to give us a day in the city. That decided, we travelled up Highway 1, hugging the coast. It was after dark by the time we entered the city. 
+It was a bugger to find, but we eventually did find a place in the middle of Chinatown with parking and everything - perfect! We booked it for two nights to give us a day in the city. That decided, we travelled up Highway 1, hugging the coast. It was after dark by the time we entered the city. 
 
 Ever since we picked up our first car I had a fear about driving here. It wasn't about  driving on the wrong side of the road, I've done that all over Europe, but the wrong side of the road and the wrong side of the car? I'm sure I've mentioned it before, but mostly it didn't come up. Automatic and not having to paddle gears with the wrong hand helped a lot, and learning to trust the 'keeping you in lane' help that many modern cars have made it all a cruise. 
 
