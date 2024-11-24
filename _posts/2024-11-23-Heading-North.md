@@ -16,21 +16,29 @@ opacity: 0.5
 photocredit:
 ---
 
-We're not numpties, we didn't just ignore the 'advisories', but we decided that changes happen rapidly and we'd watch for any advice along the way.
+We had originally intended to follow Coastal Route One all the way from Los Angeles, but the middle section was unambiguously closed. We still did want to do the northern section, however, but here there was a flood warning.
+
+We're not numpties, we didn't just ignore the 'advisories', but we decided that changes happen rapidly, we'd stick to our plan and watch for any advice along the way. 
 
 Both Google and Apple maps just don't understand this attitude.
 
 We couldn't get either to give us an, anywhere reasonable, route to anywhere north of Flumeville. We were sure that this advisory was valid on the 22nd, but this was the 23rd. 
 
-We spent most of that day ignoring the advice from our satnav:
+We spent most of that day ignoring the advice from our Google:
 
-'Turn around where possible'
+'Turn around where possible', not that we had that annoying voice on anyway. However, the constant 'Rerouting...' has its own way of annoying.
 
-Eventually we passed yesterday's impassible place and found ourselves on the C1 to fort Bragg. Even Google was happy to take us to Fort Bragg now, although two hours earlier they had formally advised against it. 
+We stopped for lunch in Vista Point and tried again with Google, we chose Fort Bragg. If the estimate was right we'd get there at sometime around 6pm, so we booked our room in advance.
 
-On Google's toute we'd have got to Fort Bragg somewhere around 6:30. Our route brought us there about three hours earlier. We were perfectly happy to stop then, even although we could probably have made it to Eureka. 
+very soon after that we finally reached Timber Gulch and the section that was seemingly impassible. There had been no road signs asking us to turn around. Surely there would have been? We persisted. 
 
-Weather looks better for the next few days, so let's see what the sat-nav has to say About the 1/101. 
+As did Google: it did let us see our dot on the map traverse along the red 'dangerous' section of road it had marked out, but it refused to follow. We were on our own.
+
+As we made our way along this 'forbidden' section of highway, it was obvious that at the height of the storm it probably was inundated and also probably would have been impassible. Earlier in the day we had passed vineyards where whole sections were completely submerged, which we roughly calculated meant about 4-5 foot of water. If we had found this section of road in that condition we would have turned around. When we set out, we didn't set out to risk driving through a flooded road. Our biggest risk was having to ignominiously admit that Google was right.
+
+We got to the end of that section and google dutifully laid out a new blue route in advance of us. From the original estimate of getting to Fort Bragg somewhere around 6:30, our 'new' route brought us there about three hours earlier. We were perfectly happy to stop at 3:30, even although we could probably have made it to Eureka.
+
+Weather looks better for the next few days and it looks like we may still have enough time to hug the coast on routes 1 and 101. If we do run out of time, there is alway the option to turn in to Portland and swiftly advance on the freeway into Seattle.
 
 
 
