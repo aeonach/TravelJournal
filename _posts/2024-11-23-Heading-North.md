@@ -26,11 +26,11 @@ We spent most of that day ignoring the advice from our satnav:
 
 'Turn around where possible'
 
-Eventually we passed yesterday's impassible place and found ourselves and on the C1 to fort Bragg, even Google was happy to take us to Fort Bragg on this route, even although two hours earlier they had formally advised against it. 
+Eventually we passed yesterday's impassible place and found ourselves on the C1 to fort Bragg. Even Google was happy to take us to Fort Bragg now, although two hours earlier they had formally advised against it. 
 
-We were perfectly happy to stop early. Even although we could probably have made it to Eureka. 
+On Google's toute we'd have got to Fort Bragg somewhere around 6:30. Our route brought us there about three hours earlier. We were perfectly happy to stop then, even although we could probably have made it to Eureka. 
 
-Weather looks better for the next few days, so let's see what the sat-nav has to say!
+Weather looks better for the next few days, so let's see what the sat-nav has to say About the 1/101. 
 
 
 
