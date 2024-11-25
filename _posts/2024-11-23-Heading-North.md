@@ -16,7 +16,7 @@ opacity: 0.5
 photocredit:
 ---
 
-We had originally intended to follow Coastal Route One all the way from Los Angeles, but the middle section was unambiguously closed. We still did want to do the northern section, however, but here there was a flood warning.
+We had originally intended to follow Coastal Route One all the way from Los Angeles, but the middle section of Big Sur was unambiguously closed. We still did want to do the northern section, however, but here there was a flood warning.
 
 We're not numpties, we didn't just ignore the 'advisories', but we decided that changes happen rapidly, we'd stick to our plan and watch for any advice along the way. 
 
