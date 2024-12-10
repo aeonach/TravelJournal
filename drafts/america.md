@@ -1,22 +1,37 @@
 ---
 layout:     post
-title:      ""
-subtitle:   ""
+title:      "Salt Spring Island"
+subtitle:   "...heading home very soon."
 active: journal
 author: David
 image:
-  feature: ".jpg"
-date:       yyyy-mm-dd
-header-img: "img/postcover/.jpg"
+  feature: "america.jpg"
+date:       2024-12-10
+header-img: "img/postcover/america.jpg"
 tags: 
-categories: 
+categories: USA 
 comments: true
 class: img-lighten 
 opacity: 0.5
 photocredit:
 ---
 
+We arrived here on Salt Spring Island to meet family, I hope they don't mind me calling
+myself family, they certainly have treated me so.
 
+I haven't written much since we arrived in North America, which is mainly because we have been on the move the whole time. Here we are, we've been here for over a week and this is me just getting around to actually writing what may be my final journal entry for this trip. Perhaps I've not sat down to do this before now because I'm not really ready for the end.
+
+There are things about coming home that I am looking forward to. We've been organising our homecoming get together with a few friends at Cafe Gandolfi in Glasgow and that's exciting. It will be great to sit down and look at all our photos...
+
+I can't think of enough reasons to make me feel that I'm ready to go home, but we are going home and we will adjust to it.
+
+This past week has been restful, even if we have walked every day. Today we walked along the coast around the Fulford Harbour area and we were treated to the most amazing sights. We saw the seabirds flock around what must have been a shoal of fish, then Horbour Porpoises and suddenly, what we think was a Minke Whale broke the surface not thirty meters from the shore. We couldn't see it spouting, but we certainly heard it. Not just once, but two or three times.
+
+Then just before we headed inland again a family of five otters gamboled around in the water, just few meters from the shore. 
+
+Tomorrow is 'packing day' and the day after that we drive to Vancouver, return our hire car and wait for our flight at sometime around 9 in the evening. We'll be in Glasgow on Thursday afternoon. We didn't want to return straight to Dumfries, so we arranged a welcome home get-together in Cafe Gandolfi and will travel down to Dumfries on Sunday.
+
+Then it will be back 'tae auld claes and porridge'. 
 
 
 
