@@ -3,11 +3,11 @@ layout:     post
 title:      ""
 subtitle:   ""
 active: journal
-author: Vanessa
+author: David
 image:
   feature: ".jpg"
-date:       2023-12-05 
-header-img: "img/postcover/"
+date:       yyyy-mm-dd
+header-img: "img/postcover/.jpg"
 tags: 
 categories: 
 comments: true
@@ -15,4 +15,13 @@ class: img-lighten
 opacity: 0.5
 photocredit:
 ---
+
+
+
+
+
+
+
+
+
 
