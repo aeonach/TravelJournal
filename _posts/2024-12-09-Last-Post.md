@@ -27,7 +27,7 @@ I can't think of enough reasons to make me feel that I'm ready to go home, but w
 
 This past week has been restful, even if we have walked every day. Today we walked along the coast around the Fulford Harbour area and we were treated to the most amazing sights. We saw the seabirds flock around what must have been a shoal of fish, then Horbour Porpoises and suddenly, what we think was a Minke Whale broke the surface not thirty meters from the shore. We couldn't see it spouting, but we certainly heard it. Not just once, but two or three times.
 
-Then just before we headed inland again a family of five otters gamboled around in the water, just few meters from the shore. 
+Then just before we headed inland again a family of five otters gamboled around in the water, just a few meters from the shore. 
 
 Tomorrow is 'packing day' and the day after that we drive to Vancouver, return our hire car and wait for our flight at sometime around 9 in the evening. We'll be in Glasgow on Thursday afternoon. We didn't want to return straight to Dumfries, so we arranged a welcome home get-together in Cafe Gandolfi and will travel down to Dumfries on Sunday.
 
