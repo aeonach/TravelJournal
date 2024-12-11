@@ -5,9 +5,9 @@ subtitle:   "...the last piece of a mind-boggling trip!"
 active: journal
 author: Vanessa
 image:
-  feature: "vanessaend.jpg"
+  feature: "vanessaamerica.jpg"
 date:       2024-12-10
-header-img: "img/postcover/vanessaend.jpg"
+header-img: "img/postcover/vanessaamerica.jpg"
 tags: 
 categories: USA 
 comments: true
