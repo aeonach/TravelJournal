@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      ""
-subtitle:   ""
+title:      "Amazing!"
+subtitle:   "...the last piece of a mind-boggling trip!"
 active: journal
 author: Vanessa
 image:
   feature: "vanessaend.jpg"
-date:       2024-12-09
+date:       2024-12-10
 header-img: "img/postcover/vanessaend.jpg"
 tags: 
 categories: USA 
